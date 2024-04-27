@@ -12,10 +12,7 @@ import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 /**
  * @author Braydon
@@ -23,6 +20,9 @@ import java.util.Set;
 public final class ReadMeManager {
     private static final DecimalFormat DECIMAL_FORMAT = new DecimalFormat("#,##0");
     private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MMMM d yyyy HH:mm z");
+    static {
+        DATE_FORMAT.setTimeZone(TimeZone.getTimeZone("America/Toronto"));
+    }
 
     /**
      * Copy the template README.md file from the jar
