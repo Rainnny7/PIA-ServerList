@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-4,520-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-5,064-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024_19:01_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024_19:51_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
@@ -10,98 +10,98 @@ Wanna see the IP list? [Click Here](./context.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Toronto | 78 |
-| US West | 77 |
-| Netherlands | 77 |
-| US Texas | 77 |
-| CA Ontario | 77 |
-| US Seattle | 75 |
-| US Chicago | 75 |
-| CA Vancouver | 74 |
-| CA Montreal | 74 |
-| DE Berlin | 73 |
-| US California | 72 |
-| US New York | 72 |
-| US Silicon Valley | 72 |
-| AU Melbourne | 72 |
-| US Florida | 71 |
-| US Las Vegas | 71 |
-| US East | 71 |
-| UK London | 71 |
-| UK Manchester | 70 |
-| US Washington DC | 69 |
-| DE Frankfurt | 69 |
-| US Atlanta | 69 |
-| Switzerland | 68 |
-| New Zealand | 68 |
-| Singapore | 66 |
-| US Houston | 66 |
-| France | 65 |
-| Japan | 64 |
-| US Denver | 64 |
-| AU Sydney | 64 |
-| AU Perth | 63 |
-| UK Southampton | 63 |
-| Sweden | 61 |
-| Norway | 59 |
-| Israel | 56 |
-| Ireland | 55 |
-| Czech Republic | 54 |
-| Spain | 53 |
-| Denmark | 53 |
-| Mexico | 52 |
-| Brazil | 52 |
-| Estonia | 50 |
-| Italy | 50 |
-| Luxembourg | 49 |
+| CA Toronto | 93 |
+| US West | 92 |
+| Netherlands | 92 |
+| CA Ontario | 90 |
+| CA Vancouver | 89 |
+| US Seattle | 88 |
+| US Texas | 88 |
+| US Chicago | 87 |
+| CA Montreal | 87 |
+| US East | 86 |
+| US New York | 86 |
+| US Las Vegas | 84 |
+| DE Berlin | 84 |
+| UK London | 84 |
+| AU Melbourne | 84 |
+| US Atlanta | 84 |
+| US Florida | 83 |
+| US Washington DC | 83 |
+| US California | 82 |
+| US Silicon Valley | 82 |
+| DE Frankfurt | 81 |
+| UK Manchester | 79 |
+| Switzerland | 79 |
+| New Zealand | 79 |
+| US Houston | 77 |
+| US Denver | 76 |
+| UK Southampton | 76 |
+| AU Sydney | 76 |
+| Singapore | 75 |
+| AU Perth | 74 |
+| Japan | 73 |
+| France | 72 |
+| Sweden | 71 |
+| Norway | 65 |
+| Israel | 64 |
+| Ireland | 63 |
+| Mexico | 62 |
+| Czech Republic | 61 |
+| Spain | 59 |
+| Estonia | 57 |
+| Denmark | 57 |
+| Italy | 56 |
+| Argentina | 55 |
+| Bahamas | 54 |
+| Brazil | 54 |
+| Luxembourg | 53 |
+| Finland | 52 |
+| Austria | 50 |
+| Latvia | 50 |
 | Ukraine | 48 |
-| Argentina | 48 |
-| Austria | 47 |
-| Bahamas | 47 |
-| Latvia | 47 |
-| Finland | 46 |
-| Romania | 43 |
-| Venezuela | 42 |
-| Greenland | 42 |
-| Panama | 42 |
-| Poland | 41 |
-| Turkey | 40 |
-| Lithuania | 40 |
-| Greece | 40 |
-| Slovakia | 39 |
+| Panama | 48 |
+| Greenland | 45 |
+| Romania | 45 |
+| Lithuania | 44 |
+| Venezuela | 43 |
+| Poland | 42 |
+| Turkey | 42 |
+| Slovakia | 42 |
+| Vietnam | 41 |
+| Greece | 41 |
 | Andorra | 38 |
-| Vietnam | 38 |
-| Belgium | 35 |
-| Taiwan | 34 |
-| Algeria | 33 |
-| United Arab Emirates | 32 |
-| Malta | 32 |
-| China | 32 |
-| Albania | 31 |
-| Qatar | 31 |
+| Taiwan | 38 |
+| Belgium | 36 |
+| United Arab Emirates | 35 |
+| Algeria | 34 |
+| Malta | 34 |
+| China | 33 |
+| Albania | 32 |
+| Qatar | 32 |
 | Bangladesh | 31 |
-| Liechtenstein | 28 |
-| Philippines | 27 |
+| Philippines | 29 |
+| Liechtenstein | 29 |
+| Isle OF Man | 28 |
 | Hungary | 27 |
-| Isle OF Man | 27 |
+| India | 27 |
+| South Africa | 27 |
 | Bulgaria | 26 |
-| India | 26 |
-| South Africa | 26 |
 | Montenegro | 26 |
 | Saudi Arabia | 25 |
+| Moldova | 24 |
+| Nigeria | 24 |
 | Macao | 24 |
 | Morocco | 24 |
 | Egypt | 24 |
-| Moldova | 23 |
+| Iceland | 24 |
+| Cambodia | 23 |
 | Cyprus | 23 |
-| Nigeria | 23 |
 | Kazakhstan | 23 |
-| Iceland | 23 |
 | Portugal | 22 |
 | Monaco | 22 |
+| Georgia | 22 |
 | Macedonia | 22 |
-| Cambodia | 21 |
-| Georgia | 21 |
 | Hong Kong | 17 |
 | Serbia | 15 |
 | Armenia | 12 |
