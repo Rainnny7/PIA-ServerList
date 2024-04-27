@@ -52,6 +52,19 @@
                     </execution>
                 </executions>
             </plugin>
+
+            <!-- Specify the apps main class -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>me.braydon.pia.PIAServerList</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 
