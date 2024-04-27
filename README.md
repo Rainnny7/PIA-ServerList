@@ -1,6 +1,6 @@
 ![Servers](https://img.shields.io/badge/Servers-888-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024_5:30_AM-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-97-darkgreen)
+![Total Regions](https://img.shields.io/badge/Last_Updated-97-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024_5:34_AM-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
