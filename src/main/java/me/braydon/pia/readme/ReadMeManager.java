@@ -10,6 +10,7 @@ import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
+import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
@@ -20,7 +21,8 @@ import java.util.Set;
  * @author Braydon
  */
 public final class ReadMeManager {
-    private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MMMM d yyyy");
+    private static final DecimalFormat DECIMAL_FORMAT = new DecimalFormat("#,##0");
+    private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MMMM d yyyy h:m a");
 
     /**
      * Copy the template README.md file from the jar
@@ -39,7 +41,7 @@ public final class ReadMeManager {
 
             // Replace variables in the README.md file
             String contents = new String(Files.readAllBytes(localReadMe));
-            contents = contents.replace("<total-servers>", String.valueOf(servers.size())); // Total servers variable
+            contents = contents.replace("<total-servers>", DECIMAL_FORMAT.format(servers.size())); // Total servers variable
             contents = contents.replace("<last-updated>", DATE_FORMAT.format(new Date()).replace(" ", "_")); // Total servers variable
 
             // Write the total servers per-region table
@@ -47,6 +49,8 @@ public final class ReadMeManager {
             for (PIAServer server : servers) {
                 regionCounts.put(server.getRegion(), regionCounts.getOrDefault(server.getRegion(), 0) + 1);
             }
+            contents = contents.replace("<total-regions>", DECIMAL_FORMAT.format(regionCounts.keySet().size())); // Total regions variable
+
             contents = contents.replace("<region-table-entry>", regionCounts.entrySet().stream()
                     .sorted((a, b) -> Integer.compare(b.getValue(), a.getValue())) // Sort from highest to lowest
                     .map(entry -> "| " + StringUtils.capitalizeFully(entry.getKey(), '_') + " | " + entry.getValue() + " |") // Map the region to the count
