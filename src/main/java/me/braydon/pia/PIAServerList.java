@@ -30,23 +30,23 @@ public final class PIAServerList {
             .setPrettyPrinting()
             .create();
     private static final String OPENVPN_FILES_ENDPOINT = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
-    private static final File SERVERS_CONTEXT_FILE = new File("context.json");
+    private static final File SERVERS_FILE = new File("servers.json");
 
     @SneakyThrows
     public static void main(@NonNull String[] args) {
         Set<PIAServer> servers = getNewServers(); // Get the new servers from PIA
         int before = servers.size();
-        servers.addAll(loadServersFromContext()); // Load servers from context
-        System.out.println("Loaded " + (servers.size() - before) + " server(s) from the context file");
+        servers.addAll(loadServersFromFile()); // Load servers from the file
+        System.out.println("Loaded " + (servers.size() - before) + " server(s) from the servers file");
 
         // Delete servers that haven't been seen in more than a week
         before = servers.size();
         servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(7L));
         System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than a week");
 
-        // Write the servers to the context file
-        System.out.println("Writing context file...");
-        try (FileWriter fileWriter = new FileWriter(SERVERS_CONTEXT_FILE)) {
+        // Write the servers to the servers file
+        System.out.println("Writing servers file...");
+        try (FileWriter fileWriter = new FileWriter(SERVERS_FILE)) {
             GSON.toJson(servers, fileWriter);
         }
         System.out.println("Done, wrote " + servers.size() + " servers to the file");
@@ -123,16 +123,16 @@ public final class PIAServerList {
     }
 
     /**
-     * Load the servers from the context file.
+     * Load the servers from the json file.
      *
      * @return the loaded servers
      */
     @SneakyThrows
-    private static List<PIAServer> loadServersFromContext() {
-        if (!SERVERS_CONTEXT_FILE.exists()) { // No context file to load
+    private static List<PIAServer> loadServersFromFile() {
+        if (!SERVERS_FILE.exists()) { // No servers file to load
             return new ArrayList<>();
         }
-        try (FileReader fileReader = new FileReader(SERVERS_CONTEXT_FILE);
+        try (FileReader fileReader = new FileReader(SERVERS_FILE);
              JsonReader jsonReader = new JsonReader(fileReader)
         ) {
             return GSON.fromJson(jsonReader, new TypeToken<List<PIAServer>>() {}.getType());
