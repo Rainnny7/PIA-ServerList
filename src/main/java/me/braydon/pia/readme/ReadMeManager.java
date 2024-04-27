@@ -43,6 +43,7 @@ public final class ReadMeManager {
                 regionCounts.put(server.getRegion(), regionCounts.getOrDefault(server.getRegion(), 0) + 1);
             }
             contents = contents.replace("<region-table-entry>", regionCounts.entrySet().stream()
+                    .sorted((a, b) -> Integer.compare(b.getValue(), a.getValue())) // Sort from highest to lowest
                     .map(entry -> "| " + StringUtils.capitalizeFully(entry.getKey(), '_') + " | " + entry.getValue() + " |") // Map the region to the count
                     .reduce((a, b) -> a + "\n" + b).orElse("")); // Reduce the entries to a single string
 
