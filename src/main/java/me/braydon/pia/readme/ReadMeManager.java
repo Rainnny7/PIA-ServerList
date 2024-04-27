@@ -40,7 +40,7 @@ public final class ReadMeManager {
             // Replace variables in the README.md file
             String contents = new String(Files.readAllBytes(localReadMe));
             contents = contents.replace("<total-servers>", String.valueOf(servers.size())); // Total servers variable
-            contents = contents.replace("<last-updated>", DATE_FORMAT.format(new Date())); // Total servers variable
+            contents = contents.replace("<last-updated>", DATE_FORMAT.format(new Date()).replace(" ", "_")); // Total servers variable
 
             // Write the total servers per-region table
             Map<String, Integer> regionCounts = new HashMap<>();
