@@ -10,6 +10,8 @@ import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
@@ -18,6 +20,8 @@ import java.util.Set;
  * @author Braydon
  */
 public final class ReadMeManager {
+    private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MMMM d yyyy");
+
     /**
      * Copy the template README.md file from the jar
      * and update it with data from the given servers.
@@ -36,6 +40,7 @@ public final class ReadMeManager {
             // Replace variables in the README.md file
             String contents = new String(Files.readAllBytes(localReadMe));
             contents = contents.replace("<total-servers>", String.valueOf(servers.size())); // Total servers variable
+            contents = contents.replace("<last-updated>", DATE_FORMAT.format(new Date())); // Total servers variable
 
             // Write the total servers per-region table
             Map<String, Integer> regionCounts = new HashMap<>();
