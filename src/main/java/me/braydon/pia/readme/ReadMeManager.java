@@ -12,14 +12,17 @@ import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
-import java.util.*;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
 
 /**
  * @author Braydon
  */
 public final class ReadMeManager {
     private static final DecimalFormat DECIMAL_FORMAT = new DecimalFormat("#,##0");
-    private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MMMM d yyyy h:m a");
+    private static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("MMMM d yyyy HH:mm z");
 
     /**
      * Copy the template README.md file from the jar
@@ -31,8 +34,6 @@ public final class ReadMeManager {
         System.out.println("Updating README.md...");
         try (InputStream templateResource = ReadMeManager.class.getClassLoader().getResourceAsStream("README_TEMPLATE.md")) {
             assert templateResource != null; // Ensure the template is present
-            Calendar calendarTime = Calendar.getInstance(TimeZone.getTimeZone("America/Toronto"));
-            calendarTime.setTime(new Date());
 
             // Copy the template README.md to the root directory
             Path localReadMe = new File("README.md").toPath(); // The local README.md file
@@ -41,7 +42,7 @@ public final class ReadMeManager {
             // Replace variables in the README.md file
             String contents = new String(Files.readAllBytes(localReadMe));
             contents = contents.replace("<total-servers>", DECIMAL_FORMAT.format(servers.size())); // Total servers variable
-            contents = contents.replace("<last-updated>", DATE_FORMAT.format(calendarTime.getTime()).replace(" ", "_")); // Total servers variable
+            contents = contents.replace("<last-updated>", DATE_FORMAT.format(new Date()).replace(" ", "_")); // Total servers variable
 
             // Write the total servers per-region table
             Map<String, Integer> regionCounts = new HashMap<>();
