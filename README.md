@@ -1,5 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-641-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024-brightgreen)
+![Servers](https://img.shields.io/badge/Servers-888-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024_5:30_AM-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-97-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
@@ -7,100 +8,100 @@ An automatically updated list of IPs for PIA servers, this list is updated every
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| Venezuela | 9 |
-| Estonia | 9 |
-| DE Berlin | 9 |
-| Switzerland | 9 |
-| Vietnam | 9 |
-| Ukraine | 9 |
-| US West | 9 |
-| Singapore | 9 |
-| Mexico | 9 |
-| CA Toronto | 9 |
-| US New York | 9 |
-| Argentina | 9 |
-| Liechtenstein | 9 |
-| Slovakia | 9 |
-| Netherlands | 9 |
-| US Texas | 9 |
-| Brazil | 9 |
-| New Zealand | 9 |
-| Kazakhstan | 9 |
-| Israel | 9 |
-| Albania | 8 |
-| United Arab Emirates | 8 |
-| Armenia | 8 |
-| Cambodia | 8 |
-| Monaco | 8 |
-| US California | 8 |
-| Hong Kong | 8 |
-| AU Perth | 8 |
-| Belgium | 8 |
-| Isle OF Man | 8 |
-| Montenegro | 8 |
-| China | 8 |
-| Hungary | 7 |
-| Bulgaria | 7 |
-| Egypt | 7 |
-| Japan | 6 |
-| US Florida | 6 |
-| Andorra | 6 |
-| CA Vancouver | 6 |
-| US Seattle | 6 |
-| Philippines | 6 |
-| US Las Vegas | 6 |
-| US East | 6 |
-| UK Manchester | 6 |
-| Turkey | 6 |
-| Austria | 6 |
-| Spain | 6 |
-| Portugal | 6 |
-| Panama | 6 |
-| Greece | 6 |
-| Luxembourg | 6 |
-| Italy | 6 |
-| Finland | 6 |
-| US Denver | 6 |
-| UK London | 6 |
-| France | 6 |
-| Serbia | 6 |
-| US Chicago | 6 |
-| US Washington DC | 6 |
-| Taiwan | 6 |
-| Sri Lanka | 6 |
-| Morocco | 6 |
-| UK Southampton | 6 |
-| DE Frankfurt | 6 |
-| Romania | 6 |
-| US Silicon Valley | 6 |
-| AU Melbourne | 6 |
-| CA Ontario | 6 |
-| Latvia | 6 |
-| US Houston | 6 |
-| South Africa | 6 |
-| CA Montreal | 6 |
-| Qatar | 6 |
-| US Atlanta | 6 |
-| Ireland | 6 |
-| Poland | 5 |
-| Moldova | 5 |
-| Sweden | 5 |
-| Algeria | 5 |
-| Lithuania | 5 |
-| Mongolia | 5 |
-| Cyprus | 5 |
-| Nigeria | 5 |
-| Bahamas | 5 |
-| Georgia | 5 |
-| Czech Republic | 5 |
-| AU Sydney | 5 |
-| Denmark | 5 |
-| Malta | 5 |
-| Iceland | 5 |
-| Macedonia | 5 |
-| Bangladesh | 5 |
-| Saudi Arabia | 4 |
-| Greenland | 4 |
-| Norway | 4 |
-| India | 4 |
-| Macao | 3 |
+| Venezuela | 12 |
+| DE Berlin | 12 |
+| Switzerland | 12 |
+| Ukraine | 12 |
+| US West | 12 |
+| Singapore | 12 |
+| CA Toronto | 12 |
+| US New York | 12 |
+| Argentina | 12 |
+| Liechtenstein | 12 |
+| Netherlands | 12 |
+| US Texas | 12 |
+| New Zealand | 12 |
+| Albania | 11 |
+| Estonia | 11 |
+| United Arab Emirates | 11 |
+| Vietnam | 11 |
+| US California | 11 |
+| Mexico | 11 |
+| AU Perth | 11 |
+| Slovakia | 11 |
+| Isle OF Man | 11 |
+| Brazil | 11 |
+| Kazakhstan | 11 |
+| Israel | 11 |
+| Cambodia | 10 |
+| Monaco | 10 |
+| Belgium | 10 |
+| Montenegro | 10 |
+| China | 10 |
+| US Florida | 9 |
+| Andorra | 9 |
+| CA Vancouver | 9 |
+| US Seattle | 9 |
+| Philippines | 9 |
+| US Las Vegas | 9 |
+| US East | 9 |
+| UK Manchester | 9 |
+| Armenia | 9 |
+| Turkey | 9 |
+| Austria | 9 |
+| Spain | 9 |
+| Portugal | 9 |
+| Greece | 9 |
+| Luxembourg | 9 |
+| Hong Kong | 9 |
+| US Denver | 9 |
+| UK London | 9 |
+| France | 9 |
+| US Chicago | 9 |
+| US Washington DC | 9 |
+| UK Southampton | 9 |
+| DE Frankfurt | 9 |
+| US Silicon Valley | 9 |
+| AU Melbourne | 9 |
+| CA Ontario | 9 |
+| Latvia | 9 |
+| US Houston | 9 |
+| Egypt | 9 |
+| CA Montreal | 9 |
+| US Atlanta | 9 |
+| Ireland | 9 |
+| Japan | 8 |
+| Sweden | 8 |
+| Algeria | 8 |
+| Hungary | 8 |
+| Panama | 8 |
+| Mongolia | 8 |
+| Italy | 8 |
+| Finland | 8 |
+| Nigeria | 8 |
+| Bahamas | 8 |
+| Bulgaria | 8 |
+| Georgia | 8 |
+| Taiwan | 8 |
+| Czech Republic | 8 |
+| Morocco | 8 |
+| AU Sydney | 8 |
+| Denmark | 8 |
+| South Africa | 8 |
+| Malta | 8 |
+| Iceland | 8 |
+| Qatar | 8 |
+| Poland | 7 |
+| Moldova | 7 |
+| Lithuania | 7 |
+| Cyprus | 7 |
+| Norway | 7 |
+| Serbia | 7 |
+| Sri Lanka | 7 |
+| Romania | 7 |
+| Macedonia | 7 |
+| Bangladesh | 7 |
+| Saudi Arabia | 6 |
+| Greenland | 6 |
+| Macao | 6 |
+| India | 6 |
