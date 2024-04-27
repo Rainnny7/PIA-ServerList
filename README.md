@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-3,356-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-3,496-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024_14:04_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_27_2024_15:01_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
@@ -10,97 +10,97 @@ Wanna see the IP list? [Click Here](./context.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Toronto | 54 |
-| US Texas | 54 |
-| US West | 52 |
-| CA Vancouver | 51 |
-| Netherlands | 51 |
-| DE Berlin | 50 |
-| US New York | 50 |
-| New Zealand | 50 |
-| US Seattle | 49 |
-| UK London | 49 |
-| US Silicon Valley | 49 |
-| US California | 48 |
-| CA Ontario | 48 |
-| CA Montreal | 48 |
-| US Florida | 47 |
-| US Las Vegas | 47 |
-| US East | 47 |
-| Switzerland | 47 |
-| US Denver | 47 |
-| US Chicago | 47 |
-| AU Melbourne | 47 |
-| US Atlanta | 47 |
-| UK Manchester | 46 |
-| US Washington DC | 46 |
-| DE Frankfurt | 46 |
-| Japan | 45 |
-| AU Perth | 45 |
-| UK Southampton | 45 |
-| US Houston | 45 |
-| AU Sydney | 44 |
-| Ireland | 43 |
-| Singapore | 42 |
-| France | 42 |
-| Estonia | 41 |
-| Sweden | 41 |
-| Spain | 40 |
-| Norway | 40 |
-| Israel | 40 |
-| Argentina | 38 |
-| Czech Republic | 38 |
-| Denmark | 38 |
-| Latvia | 38 |
+| CA Toronto | 57 |
+| US Texas | 57 |
+| US West | 55 |
+| CA Vancouver | 54 |
+| Netherlands | 54 |
+| New Zealand | 53 |
+| US Seattle | 52 |
+| DE Berlin | 52 |
+| US New York | 52 |
+| UK London | 52 |
+| US Silicon Valley | 52 |
+| US California | 51 |
+| CA Ontario | 51 |
+| CA Montreal | 51 |
+| US Florida | 50 |
+| US Las Vegas | 50 |
+| US East | 50 |
+| US Denver | 50 |
+| US Chicago | 50 |
+| AU Melbourne | 50 |
+| US Atlanta | 50 |
+| UK Manchester | 49 |
+| Switzerland | 49 |
+| US Washington DC | 49 |
+| DE Frankfurt | 49 |
+| AU Perth | 48 |
+| UK Southampton | 48 |
+| US Houston | 48 |
+| Japan | 47 |
+| France | 45 |
+| AU Sydney | 45 |
+| Ireland | 45 |
+| Sweden | 44 |
+| Singapore | 44 |
+| Estonia | 43 |
+| Norway | 43 |
+| Spain | 42 |
+| Israel | 42 |
+| Argentina | 39 |
+| Czech Republic | 39 |
+| Denmark | 39 |
+| Latvia | 39 |
+| Italy | 38 |
+| Bahamas | 38 |
+| Romania | 38 |
+| Poland | 37 |
+| Venezuela | 37 |
+| Ukraine | 37 |
+| Luxembourg | 37 |
+| Finland | 37 |
 | Mexico | 37 |
-| Bahamas | 37 |
 | Brazil | 37 |
-| Romania | 37 |
-| Venezuela | 36 |
-| Ukraine | 36 |
-| Luxembourg | 36 |
-| Italy | 36 |
-| Poland | 35 |
-| Panama | 35 |
-| Finland | 35 |
+| Panama | 36 |
+| Slovakia | 34 |
 | Turkey | 33 |
 | Austria | 33 |
-| Greece | 32 |
-| Slovakia | 32 |
-| Vietnam | 31 |
+| Greece | 33 |
+| Vietnam | 32 |
+| Andorra | 31 |
+| Algeria | 31 |
 | Lithuania | 31 |
-| Andorra | 29 |
-| Algeria | 29 |
-| Belgium | 29 |
-| Taiwan | 29 |
+| Taiwan | 31 |
+| Belgium | 30 |
 | Greenland | 28 |
 | Qatar | 28 |
 | China | 28 |
 | Albania | 27 |
 | Liechtenstein | 27 |
 | Malta | 27 |
+| Montenegro | 26 |
+| Bangladesh | 26 |
 | United Arab Emirates | 25 |
-| Montenegro | 25 |
-| Bangladesh | 25 |
-| South Africa | 24 |
+| South Africa | 25 |
+| Bulgaria | 24 |
+| Saudi Arabia | 23 |
+| Hungary | 23 |
 | Nigeria | 23 |
-| Bulgaria | 23 |
 | Morocco | 23 |
 | Kazakhstan | 23 |
 | Philippines | 22 |
-| Hungary | 22 |
+| Isle OF Man | 22 |
 | India | 22 |
 | Egypt | 22 |
 | Iceland | 22 |
-| Saudi Arabia | 21 |
 | Portugal | 21 |
 | Monaco | 21 |
-| Isle OF Man | 21 |
-| Cyprus | 20 |
+| Cyprus | 21 |
 | Georgia | 20 |
+| Moldova | 19 |
 | Cambodia | 19 |
 | Macedonia | 19 |
-| Moldova | 18 |
 | Macao | 18 |
 | Hong Kong | 16 |
 | Serbia | 14 |
