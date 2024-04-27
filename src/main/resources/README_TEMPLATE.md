@@ -1,5 +1,5 @@
 ![Servers](https://img.shields.io/badge/Servers-<total-servers>-darkgreen)
-![Total Regions](https://img.shields.io/badge/Last_Updated-<total-regions>-darkgreen)
+![Total Regions](https://img.shields.io/badge/Total_Regions-<total-regions>-darkgreen)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-<last-updated>-darkgreen)
 
 # PIA-ServerList
