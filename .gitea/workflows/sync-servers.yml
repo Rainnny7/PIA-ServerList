@@ -2,7 +2,7 @@ name: Sync PIA Servers
 
 on:
   schedule:
-    - cron: "@hourly"
+    - cron: "*/7 * * * *"
   push:
     branches: ["master"]
     paths: [".gitea/workflows/sync-servers.yml", "src/**", "pom.xml"]
@@ -35,8 +35,8 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config --global user.email "braydonrainnny@gmail.com"
-          git config --global user.name "Braydon"
+          git config --global user.email "rainnny-ci@rainnny.club"
+          git config --global user.name "Rainnny-CI"
           git add servers.json
           git add README.md
           git commit -m "Scheduled update"
