@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-5,749-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-5,844-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_28_2024_02:01_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_28_2024_03:01_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
@@ -10,47 +10,47 @@ Wanna see the IP list? [Click Here](./context.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Toronto | 113 |
-| Netherlands | 113 |
-| US West | 111 |
-| CA Vancouver | 107 |
-| US Texas | 107 |
-| CA Montreal | 106 |
-| UK London | 105 |
-| US Chicago | 105 |
-| CA Ontario | 105 |
-| US East | 103 |
-| US Seattle | 102 |
-| DE Berlin | 102 |
-| US New York | 102 |
-| US Las Vegas | 101 |
-| US Atlanta | 101 |
-| US California | 100 |
-| AU Melbourne | 100 |
-| US Florida | 98 |
-| US Washington DC | 98 |
-| US Silicon Valley | 97 |
-| Switzerland | 95 |
-| DE Frankfurt | 94 |
-| UK Manchester | 92 |
-| New Zealand | 92 |
-| US Houston | 92 |
-| AU Sydney | 91 |
-| UK Southampton | 90 |
-| US Denver | 89 |
-| AU Perth | 89 |
-| Singapore | 85 |
-| France | 85 |
-| Japan | 84 |
-| Sweden | 82 |
-| Mexico | 73 |
+| Netherlands | 116 |
+| CA Toronto | 115 |
+| US West | 114 |
+| CA Vancouver | 110 |
+| US Texas | 109 |
+| CA Montreal | 109 |
+| UK London | 108 |
+| US Chicago | 108 |
+| CA Ontario | 107 |
+| US Seattle | 105 |
+| US East | 105 |
+| DE Berlin | 105 |
+| US New York | 105 |
+| US Atlanta | 104 |
+| AU Melbourne | 103 |
+| US Las Vegas | 102 |
+| US California | 102 |
+| US Washington DC | 100 |
+| US Florida | 99 |
+| US Silicon Valley | 99 |
+| Switzerland | 97 |
+| DE Frankfurt | 97 |
+| UK Manchester | 94 |
+| New Zealand | 94 |
+| AU Sydney | 93 |
+| US Houston | 93 |
+| AU Perth | 92 |
+| UK Southampton | 92 |
+| US Denver | 91 |
+| Singapore | 87 |
+| France | 87 |
+| Japan | 86 |
+| Sweden | 83 |
+| Mexico | 74 |
+| Israel | 73 |
 | Ireland | 73 |
-| Israel | 72 |
-| Norway | 71 |
+| Norway | 72 |
 | Spain | 69 |
-| Estonia | 67 |
-| Italy | 64 |
-| Czech Republic | 64 |
+| Estonia | 68 |
+| Italy | 66 |
+| Czech Republic | 66 |
 | Denmark | 63 |
 | Argentina | 61 |
 | Bahamas | 59 |
@@ -58,21 +58,21 @@ Wanna see the IP list? [Click Here](./context.json)
 | Brazil | 58 |
 | Luxembourg | 55 |
 | Latvia | 55 |
-| Austria | 52 |
-| Panama | 52 |
-| Ukraine | 51 |
-| Greenland | 49 |
+| Austria | 53 |
+| Panama | 53 |
+| Ukraine | 52 |
+| Greenland | 51 |
 | Lithuania | 48 |
+| Romania | 48 |
 | Poland | 47 |
-| Romania | 47 |
-| Turkey | 44 |
+| Turkey | 45 |
+| Andorra | 43 |
 | Venezuela | 43 |
+| Vietnam | 43 |
 | Slovakia | 43 |
 | Taiwan | 43 |
-| Vietnam | 42 |
 | Greece | 42 |
-| Andorra | 41 |
-| Belgium | 38 |
+| Belgium | 40 |
 | United Arab Emirates | 36 |
 | Malta | 36 |
 | Albania | 35 |
