@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-7,104-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-7,123-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_28_2024_18:08_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_28_2024_18:15_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
@@ -11,13 +11,13 @@ Wanna see the IP list? [Click Here](./context.json)
 | Region               | Servers |
 |----------------------|---------|
 | Netherlands | 155 |
+| CA Toronto | 154 |
 | US West | 152 |
-| CA Toronto | 151 |
 | CA Montreal | 151 |
 | UK London | 149 |
+| CA Vancouver | 147 |
 | US Chicago | 147 |
 | US Texas | 147 |
-| CA Vancouver | 144 |
 | US Atlanta | 144 |
 | US East | 141 |
 | US Seattle | 140 |
@@ -25,17 +25,17 @@ Wanna see the IP list? [Click Here](./context.json)
 | US Washington DC | 140 |
 | CA Ontario | 140 |
 | US Las Vegas | 139 |
-| US New York | 137 |
-| US Florida | 136 |
+| US New York | 139 |
+| US Florida | 138 |
 | AU Melbourne | 135 |
 | US Silicon Valley | 134 |
 | UK Southampton | 126 |
 | DE Berlin | 125 |
+| DE Frankfurt | 125 |
 | AU Sydney | 124 |
 | Switzerland | 123 |
-| DE Frankfurt | 123 |
-| UK Manchester | 121 |
-| US Houston | 119 |
+| UK Manchester | 122 |
+| US Houston | 121 |
 | Singapore | 114 |
 | US Denver | 113 |
 | New Zealand | 113 |
@@ -43,7 +43,7 @@ Wanna see the IP list? [Click Here](./context.json)
 | Japan | 103 |
 | Sweden | 103 |
 | France | 103 |
-| Mexico | 92 |
+| Mexico | 93 |
 | Ireland | 91 |
 | Norway | 86 |
 | Spain | 82 |
@@ -51,9 +51,9 @@ Wanna see the IP list? [Click Here](./context.json)
 | Czech Republic | 79 |
 | Estonia | 76 |
 | Italy | 76 |
-| Denmark | 74 |
+| Denmark | 76 |
+| Finland | 68 |
 | Bahamas | 68 |
-| Finland | 67 |
 | Argentina | 67 |
 | Brazil | 63 |
 | Austria | 62 |
