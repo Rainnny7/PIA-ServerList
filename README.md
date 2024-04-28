@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-7,464-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-7,495-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_28_2024_19:01_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_28_2024_19:07_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
@@ -10,42 +10,42 @@ Wanna see the IP list? [Click Here](./context.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| Netherlands | 167 |
-| CA Toronto | 166 |
-| US West | 163 |
-| CA Montreal | 163 |
-| CA Vancouver | 159 |
+| Netherlands | 170 |
+| CA Toronto | 169 |
+| CA Montreal | 166 |
+| US West | 164 |
+| US Texas | 162 |
+| CA Vancouver | 161 |
 | UK London | 159 |
 | US Chicago | 159 |
-| US Texas | 159 |
-| US Atlanta | 155 |
+| US Atlanta | 156 |
+| CA Ontario | 154 |
 | US East | 153 |
 | US Las Vegas | 152 |
 | US Washington DC | 152 |
-| CA Ontario | 151 |
+| US Seattle | 151 |
 | US Florida | 149 |
-| US Seattle | 149 |
 | US California | 149 |
 | US New York | 149 |
 | US Silicon Valley | 146 |
 | AU Melbourne | 146 |
 | DE Frankfurt | 136 |
-| UK Southampton | 134 |
-| DE Berlin | 132 |
+| UK Southampton | 135 |
+| DE Berlin | 134 |
+| UK Manchester | 130 |
 | AU Sydney | 130 |
-| UK Manchester | 129 |
 | Switzerland | 129 |
 | US Houston | 127 |
 | Singapore | 122 |
-| US Denver | 119 |
-| AU Perth | 115 |
+| US Denver | 120 |
+| AU Perth | 116 |
 | New Zealand | 115 |
+| Sweden | 108 |
 | Japan | 107 |
-| Sweden | 107 |
 | France | 107 |
-| Mexico | 97 |
+| Mexico | 98 |
 | Ireland | 95 |
-| Norway | 89 |
+| Norway | 90 |
 | Israel | 85 |
 | Spain | 84 |
 | Czech Republic | 81 |
@@ -65,8 +65,8 @@ Wanna see the IP list? [Click Here](./context.json)
 | Greenland | 55 |
 | Poland | 52 |
 | Lithuania | 52 |
+| Turkey | 50 |
 | Slovakia | 50 |
-| Turkey | 49 |
 | Vietnam | 46 |
 | Venezuela | 45 |
 | Andorra | 45 |
