@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-13,101-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-13,127-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_18:00_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_18:10_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,34 +10,34 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| Netherlands | 427 |
-| CA Montreal | 427 |
-| CA Vancouver | 422 |
-| US Chicago | 406 |
+| Netherlands | 430 |
+| CA Montreal | 429 |
+| CA Vancouver | 423 |
+| US Chicago | 407 |
 | US Texas | 400 |
-| CA Toronto | 389 |
-| US West | 373 |
-| US Silicon Valley | 370 |
-| CA Ontario | 370 |
-| UK London | 364 |
-| US Las Vegas | 363 |
+| CA Toronto | 390 |
+| US West | 375 |
+| US Silicon Valley | 371 |
+| CA Ontario | 371 |
+| UK London | 365 |
+| US Las Vegas | 364 |
+| US Atlanta | 357 |
 | US Washington DC | 355 |
-| US Atlanta | 355 |
 | US New York | 353 |
 | US California | 348 |
 | US East | 338 |
-| AU Melbourne | 334 |
+| AU Melbourne | 335 |
 | US Seattle | 331 |
-| US Florida | 311 |
+| US Florida | 313 |
 | DE Frankfurt | 298 |
 | AU Sydney | 281 |
 | Switzerland | 264 |
-| DE Berlin | 233 |
-| US Houston | 233 |
+| DE Berlin | 234 |
+| US Houston | 234 |
 | Singapore | 219 |
-| US Denver | 209 |
+| US Denver | 212 |
 | UK Manchester | 208 |
-| UK Southampton | 201 |
+| UK Southampton | 202 |
 | AU Perth | 178 |
 | New Zealand | 175 |
 | Japan | 174 |
@@ -49,8 +49,8 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Israel | 100 |
 | Spain | 99 |
 | Denmark | 96 |
+| Estonia | 93 |
 | Czech Republic | 93 |
-| Estonia | 92 |
 | Italy | 87 |
 | Finland | 84 |
 | Bahamas | 78 |
