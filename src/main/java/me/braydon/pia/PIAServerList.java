@@ -120,8 +120,13 @@ public final class PIAServerList {
         System.out.println("Found " + openVpnFiles.length + " OpenVPN files, reading them...");
 
         for (File file : openVpnFiles) {
-            String region = file.getName().split("\\.")[0]; // The server region
+            String[] split = file.getName().split("\\.");
+            String region = split[0]; // The server region
             try {
+                // Not an OpenVPN file, ignore it
+                if (!split[1].equals("ovpn")) {
+                    continue;
+                }
                 for (String line : Files.readAllLines(file.toPath())) {
                     // Line doesn't contain the remote server, ignore it
                     if (!line.startsWith("remote ")) {
