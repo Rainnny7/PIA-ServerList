@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-10,307-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-10,355-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_04:30_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_04:40_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,50 +10,50 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 283 |
-| Netherlands | 280 |
-| CA Vancouver | 276 |
-| US Chicago | 271 |
-| CA Toronto | 267 |
-| US Texas | 266 |
-| US West | 262 |
-| UK London | 262 |
-| US California | 255 |
-| US Silicon Valley | 255 |
-| US New York | 252 |
-| US Las Vegas | 248 |
+| CA Montreal | 285 |
+| Netherlands | 282 |
+| CA Vancouver | 278 |
+| US Chicago | 274 |
+| CA Toronto | 270 |
+| US Texas | 269 |
+| US West | 263 |
+| UK London | 263 |
+| US California | 258 |
+| US Silicon Valley | 257 |
+| US New York | 254 |
+| US Las Vegas | 250 |
 | CA Ontario | 247 |
-| US Atlanta | 244 |
-| US Washington DC | 242 |
+| US Atlanta | 245 |
+| US Washington DC | 243 |
 | US Seattle | 239 |
-| US East | 236 |
-| AU Melbourne | 236 |
-| US Florida | 231 |
+| US East | 238 |
+| AU Melbourne | 238 |
+| US Florida | 234 |
 | DE Frankfurt | 217 |
-| AU Sydney | 205 |
-| Switzerland | 202 |
-| DE Berlin | 192 |
+| AU Sydney | 206 |
+| Switzerland | 203 |
+| DE Berlin | 193 |
+| US Houston | 184 |
+| UK Manchester | 182 |
 | UK Southampton | 182 |
-| US Houston | 182 |
-| UK Manchester | 181 |
-| Singapore | 173 |
-| US Denver | 171 |
-| AU Perth | 155 |
+| Singapore | 174 |
+| US Denver | 172 |
+| AU Perth | 157 |
 | Japan | 153 |
 | New Zealand | 153 |
 | Sweden | 151 |
 | France | 137 |
-| Mexico | 126 |
+| Mexico | 127 |
 | Ireland | 117 |
 | Norway | 103 |
 | Israel | 97 |
 | Spain | 94 |
 | Denmark | 93 |
 | Czech Republic | 91 |
-| Estonia | 88 |
+| Estonia | 89 |
 | Italy | 86 |
 | Finland | 82 |
-| Bahamas | 76 |
+| Bahamas | 77 |
 | Argentina | 72 |
 | Austria | 70 |
 | Brazil | 68 |
