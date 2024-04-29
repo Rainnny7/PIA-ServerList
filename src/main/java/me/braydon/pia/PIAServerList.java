@@ -8,16 +8,13 @@ import lombok.NonNull;
 import lombok.SneakyThrows;
 import me.braydon.pia.readme.ReadMeManager;
 import net.lingala.zip4j.ZipFile;
-import org.xbill.DNS.*;
 import org.xbill.DNS.Record;
+import org.xbill.DNS.*;
 
 import java.io.*;
 import java.net.URL;
 import java.nio.file.Files;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -29,16 +26,30 @@ public final class PIAServerList {
             .create();
     private static final String OPENVPN_FILES_ENDPOINT = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
     private static final File SERVERS_FILE = new File("servers.json");
+    private static final int TOTAL_RUNS = 2;
 
     @SneakyThrows
     public static void main(@NonNull String[] args) {
-        Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1")); // Use CF DNS
-        Set<PIAServer> servers = getNewServers(); // Get the new servers from PIA
+        Map<String, String> regionAddresses = getRegionAddresses(); // Get region address from PIA
+        Set<PIAServer> servers = new HashSet<>();
+
+        for (int i = 0; i < TOTAL_RUNS; i++) {
+            int before = servers.size();
+            servers.addAll(getNewServers(regionAddresses)); // Add new servers from PIA
+            System.out.println("Added " + (servers.size() - before) + " new server(s) from PIA");
+
+            // Sleep for 3 mins
+            if (i < TOTAL_RUNS - 1) {
+                System.out.println("Sleeping, waiting for another run...");
+                Thread.sleep(TimeUnit.MINUTES.toMillis(3L));
+            }
+        }
+
+        // Delete servers that haven't been seen in more than a week
         int before = servers.size();
         servers.addAll(loadServersFromFile()); // Load servers from the file
         System.out.println("Loaded " + (servers.size() - before) + " server(s) from the servers file");
 
-        // Delete servers that haven't been seen in more than a week
         before = servers.size();
         servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(7L));
         System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than a week");
@@ -58,11 +69,39 @@ public final class PIAServerList {
      * Get the new servers from the
      * OpenVPN files provided by PIA.
      *
+     * @param regionAddresses the region addresses
      * @return the new servers
      */
-    @SneakyThrows
-    private static Set<PIAServer> getNewServers() {
+    @SneakyThrows @NonNull
+    private static Set<PIAServer> getNewServers(@NonNull Map<String, String> regionAddresses) {
         Set<PIAServer> servers = new HashSet<>(); // The new servers to return
+        Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1")); // Use CF DNS
+
+        for (Map.Entry<String, String> entry : regionAddresses.entrySet()) {
+            String region = entry.getKey();
+            String address = entry.getValue();
+
+            Record[] records = new Lookup(address, Type.A).run(); // Resolve A records
+            if (records == null) { // No A records resolved
+                continue;
+            }
+            System.out.println("Resolved " + records.length + " A Records for region " + region);
+            for (Record record : records) {
+                servers.add(new PIAServer(((ARecord) record).getAddress().getHostAddress(), region, System.currentTimeMillis()));
+            }
+        }
+        return servers;
+    }
+
+    /**
+     * Get the region addresses from
+     * the OpenVPN files provided by PIA.
+     *
+     * @return the mapped region addresses
+     */
+    @SneakyThrows
+    private static Map<String, String> getRegionAddresses() {
+        Map<String, String> regionAddresses = new HashMap<>();
         File serversZip = new File("servers.zip"); // The zip file containing the servers
 
         // Download the OpenVPN servers zip from PIA
@@ -103,14 +142,8 @@ public final class PIAServerList {
                     if (!line.startsWith("remote ")) {
                         continue;
                     }
-                    Record[] records = new Lookup(line.split(" ")[1], Type.A).run(); // Resolve A records
-                    if (records == null) { // No A records resolved
-                        continue;
-                    }
-                    System.out.println("Resolved " + records.length + " A Records for region " + region);
-                    for (Record record : records) {
-                        servers.add(new PIAServer(((ARecord) record).getAddress().getHostAddress(), region, System.currentTimeMillis()));
-                    }
+                    // Store the region -> address mapping
+                    regionAddresses.put(region, line.split(" ")[1]);
                 }
             } finally {
                 file.delete(); // Delete the OpenVPN file after reading it
@@ -118,7 +151,7 @@ public final class PIAServerList {
         }
         serversDir.delete(); // Delete the servers dir after reading the OpenVPN files
 
-        return servers;
+        return regionAddresses;
     }
 
     /**
