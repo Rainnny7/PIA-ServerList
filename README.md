@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-9,342-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-9,403-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_01:11_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_01:23_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every hour, and servers in this list will be removed in they have not been seen in the last week.
@@ -10,45 +10,45 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| Netherlands | 238 |
-| CA Montreal | 237 |
-| CA Vancouver | 236 |
-| CA Toronto | 236 |
-| US Texas | 230 |
-| US Chicago | 228 |
-| US West | 221 |
-| UK London | 221 |
-| US California | 216 |
-| US Silicon Valley | 216 |
-| US Atlanta | 216 |
-| US Las Vegas | 215 |
-| US East | 212 |
-| US Washington DC | 212 |
-| CA Ontario | 212 |
-| US New York | 210 |
-| AU Melbourne | 209 |
-| US Seattle | 208 |
-| US Florida | 205 |
-| DE Frankfurt | 188 |
-| Switzerland | 182 |
-| AU Sydney | 175 |
-| DE Berlin | 169 |
-| UK Southampton | 169 |
-| UK Manchester | 161 |
-| US Houston | 160 |
-| Singapore | 155 |
-| US Denver | 152 |
-| New Zealand | 146 |
+| Netherlands | 241 |
+| CA Vancouver | 239 |
+| CA Toronto | 238 |
+| CA Montreal | 238 |
+| US Texas | 233 |
+| US Chicago | 230 |
+| US West | 223 |
+| UK London | 223 |
+| US Las Vegas | 218 |
+| US California | 218 |
+| US Silicon Valley | 218 |
+| US Atlanta | 217 |
+| CA Ontario | 215 |
+| US Washington DC | 214 |
+| US East | 213 |
+| US New York | 213 |
+| AU Melbourne | 210 |
+| US Seattle | 209 |
+| US Florida | 206 |
+| DE Frankfurt | 189 |
+| Switzerland | 183 |
+| AU Sydney | 178 |
+| DE Berlin | 170 |
+| UK Southampton | 170 |
+| UK Manchester | 163 |
+| US Houston | 163 |
+| Singapore | 157 |
+| US Denver | 154 |
+| New Zealand | 147 |
+| AU Perth | 146 |
 | Japan | 144 |
-| AU Perth | 144 |
-| Sweden | 134 |
+| Sweden | 136 |
 | France | 129 |
-| Mexico | 117 |
+| Mexico | 118 |
 | Ireland | 114 |
 | Norway | 97 |
 | Israel | 94 |
 | Spain | 92 |
-| Denmark | 90 |
+| Denmark | 91 |
 | Estonia | 87 |
 | Czech Republic | 87 |
 | Italy | 84 |
