@@ -12,6 +12,7 @@ import org.xbill.DNS.Record;
 import org.xbill.DNS.*;
 
 import java.io.*;
+import java.net.InetAddress;
 import java.net.URL;
 import java.nio.file.Files;
 import java.util.*;
@@ -26,7 +27,7 @@ public final class PIAServerList {
             .create();
     private static final String OPENVPN_FILES_ENDPOINT = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
     private static final File SERVERS_FILE = new File("servers.json");
-    private static final int TOTAL_RUNS = 2;
+    private static final int TOTAL_RUNS = 3;
 
     @SneakyThrows
     public static void main(@NonNull String[] args) {
@@ -41,7 +42,7 @@ public final class PIAServerList {
             // Sleep for 3 mins
             if (i < TOTAL_RUNS - 1) {
                 System.out.println("Sleeping, waiting for another run...");
-                Thread.sleep(TimeUnit.MINUTES.toMillis(3L));
+                Thread.sleep(TimeUnit.MINUTES.toMillis(4L));
             }
         }
 

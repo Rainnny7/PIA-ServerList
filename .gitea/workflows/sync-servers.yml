@@ -2,7 +2,7 @@ name: Sync PIA Servers
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   push:
     branches: ["master"]
     paths: [".gitea/workflows/sync-servers.yml", "src/**", "pom.xml"]
