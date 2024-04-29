@@ -12,7 +12,6 @@ import org.xbill.DNS.Record;
 import org.xbill.DNS.*;
 
 import java.io.*;
-import java.net.InetAddress;
 import java.net.URL;
 import java.nio.file.Files;
 import java.util.*;
@@ -27,55 +26,43 @@ public final class PIAServerList {
             .create();
     private static final String OPENVPN_FILES_ENDPOINT = "https://www.privateinternetaccess.com/openvpn/openvpn.zip";
     private static final File SERVERS_FILE = new File("servers.json");
-    private static final int TOTAL_RUNS = 3;
 
     @SneakyThrows
     public static void main(@NonNull String[] args) {
-        Map<String, String> regionAddresses = getRegionAddresses(); // Get region address from PIA
+        Set<PIAServer> servers = getNewServers(); // Get the new servers from PIA
+        int before = servers.size();
+        servers.addAll(loadServersFromFile()); // Load servers from the file
+        int loaded = servers.size() - before;
+        System.out.println("Loaded " + loaded + " server(s) from the servers file");
 
-        for (int i = 0; i < TOTAL_RUNS; i++) {
-            Set<PIAServer> servers = getNewServers(regionAddresses); // Get the new servers from PIA
-            int before = servers.size();
-            servers.addAll(loadServersFromFile()); // Load servers from the file
-            int loaded = servers.size() - before;
-            System.out.println("Loaded " + loaded + " server(s) from the servers file");
+        // Delete servers that haven't been seen in more than a week
+        before = servers.size();
+        servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(7L));
+        System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than a week");
 
-            // Delete servers that haven't been seen in more than a week
-            before = servers.size();
-            servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(7L));
-            System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than a week");
-
-            // Write the servers to the servers file
-            System.out.println("Writing servers file...");
-            try (FileWriter fileWriter = new FileWriter(SERVERS_FILE)) {
-                GSON.toJson(servers, fileWriter);
-            }
-            System.out.println("Done, wrote " + servers.size() + " servers to the file (+" + (servers.size() - loaded) + " New)");
-
-            // Update the README.md file
-            ReadMeManager.update(servers);
-
-            // Sleep before running again
-            if (i < TOTAL_RUNS - 1) {
-                System.out.println("Sleeping...");
-                Thread.sleep(TimeUnit.MINUTES.toMillis(4L));
-            }
+        // Write the servers to the servers file
+        System.out.println("Writing servers file...");
+        try (FileWriter fileWriter = new FileWriter(SERVERS_FILE)) {
+            GSON.toJson(servers, fileWriter);
         }
+        System.out.println("Done, wrote " + servers.size() + " servers to the file (+" + (servers.size() - loaded) + " New)");
+
+        // Update the README.md file
+        ReadMeManager.update(servers);
     }
 
     /**
      * Get the new servers from the
      * OpenVPN files provided by PIA.
      *
-     * @param regionAddresses the region addresses
      * @return the new servers
      */
     @SneakyThrows @NonNull
-    private static Set<PIAServer> getNewServers(@NonNull Map<String, String> regionAddresses) {
+    private static Set<PIAServer> getNewServers() {
         Set<PIAServer> servers = new HashSet<>(); // The new servers to return
         Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1")); // Use CF DNS
 
-        for (Map.Entry<String, String> entry : regionAddresses.entrySet()) {
+        for (Map.Entry<String, String> entry : getRegionAddresses().entrySet()) {
             String region = entry.getKey();
             String address = entry.getValue();
 
