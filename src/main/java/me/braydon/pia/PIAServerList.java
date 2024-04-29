@@ -29,14 +29,14 @@ public final class PIAServerList {
 
     @SneakyThrows
     public static void main(@NonNull String[] args) {
+        List<PIAServer> fromFile = loadServersFromFile(); // Load the servers from the file
+        System.out.println("Loaded " + fromFile.size() + " server(s) from the servers file");
+
         Set<PIAServer> servers = getNewServers(); // Get the new servers from PIA
-        int before = servers.size();
-        servers.addAll(loadServersFromFile()); // Load servers from the file
-        int loaded = servers.size() - before;
-        System.out.println("Loaded " + loaded + " server(s) from the servers file");
+        servers.addAll(fromFile); // Add servers from the file
 
         // Delete servers that haven't been seen in more than two weeks
-        before = servers.size();
+        int before = servers.size();
         servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(14L));
         System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than two weeks");
 
@@ -45,7 +45,7 @@ public final class PIAServerList {
         try (FileWriter fileWriter = new FileWriter(SERVERS_FILE)) {
             GSON.toJson(servers, fileWriter);
         }
-        System.out.println("Done, wrote " + servers.size() + " servers to the file (+" + (servers.size() - loaded) + " New)");
+        System.out.println("Done, wrote " + servers.size() + " servers to the file (+" + (servers.size() - fromFile.size()) + " New)");
 
         // Update the README.md file
         ReadMeManager.update(servers);
@@ -70,7 +70,6 @@ public final class PIAServerList {
             if (records == null) { // No A records resolved
                 continue;
             }
-            System.out.println("Resolved " + records.length + " A Records for region " + region);
             for (Record record : records) {
                 servers.add(new PIAServer(((ARecord) record).getAddress().getHostAddress(), region, System.currentTimeMillis()));
             }
@@ -117,7 +116,6 @@ public final class PIAServerList {
         File serversDir = new File("servers"); // The dir where the downloaded OpenVPN files are stored
         File[] openVpnFiles = serversDir.listFiles();
         assert openVpnFiles != null;
-        System.out.println("Found " + openVpnFiles.length + " OpenVPN files, reading them...");
 
         for (File file : openVpnFiles) {
             String[] split = file.getName().split("\\.");
@@ -140,7 +138,7 @@ public final class PIAServerList {
             }
         }
         serversDir.delete(); // Delete the servers dir after reading the OpenVPN files
-
+        System.out.println("Found " + regionAddresses.size() + " regions");
         return regionAddresses;
     }
 
