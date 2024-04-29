@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,260-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,306-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_08:20_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_08:30_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,35 +10,35 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 331 |
-| Netherlands | 321 |
-| CA Vancouver | 315 |
-| US Chicago | 313 |
-| US Texas | 310 |
-| CA Toronto | 308 |
-| US West | 302 |
-| UK London | 299 |
-| US Silicon Valley | 293 |
-| US California | 292 |
-| US Las Vegas | 287 |
-| CA Ontario | 286 |
-| US New York | 285 |
-| US Atlanta | 281 |
-| US Washington DC | 277 |
-| AU Melbourne | 269 |
-| US Seattle | 268 |
-| US East | 268 |
+| CA Montreal | 334 |
+| Netherlands | 322 |
+| CA Vancouver | 317 |
+| US Chicago | 315 |
+| US Texas | 313 |
+| CA Toronto | 310 |
+| US West | 304 |
+| UK London | 300 |
+| US Silicon Valley | 296 |
+| US California | 294 |
+| US Las Vegas | 289 |
+| CA Ontario | 289 |
+| US New York | 287 |
+| US Atlanta | 283 |
+| US Washington DC | 279 |
+| AU Melbourne | 271 |
+| US Seattle | 269 |
+| US East | 269 |
 | US Florida | 258 |
-| DE Frankfurt | 242 |
-| AU Sydney | 234 |
-| Switzerland | 219 |
+| DE Frankfurt | 243 |
+| AU Sydney | 236 |
+| Switzerland | 220 |
 | DE Berlin | 208 |
 | US Houston | 204 |
 | Singapore | 196 |
 | UK Manchester | 194 |
+| US Denver | 189 |
 | UK Southampton | 187 |
-| US Denver | 186 |
-| AU Perth | 164 |
+| AU Perth | 165 |
 | New Zealand | 164 |
 | Japan | 162 |
 | Sweden | 160 |
@@ -47,9 +47,9 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Ireland | 124 |
 | Norway | 105 |
 | Israel | 99 |
-| Spain | 97 |
+| Spain | 98 |
 | Denmark | 94 |
-| Czech Republic | 92 |
+| Czech Republic | 93 |
 | Estonia | 91 |
 | Italy | 87 |
 | Finland | 83 |
