@@ -40,4 +40,4 @@ jobs:
           git add servers.json
           git add README.md
           git commit -m "Scheduled update"
-          git push https://Rainnny:${{ secrets.AUTH_TOKEN }}@git.rainnny.club/Rainnny/PIA-ServerList
+          git push https://Rainnny-CI:${{ secrets.AUTH_TOKEN }}@git.rainnny.club/Rainnny/PIA-ServerList
