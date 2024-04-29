@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-10,355-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-10,406-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_04:40_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_04:50_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,41 +10,41 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 285 |
+| CA Montreal | 287 |
 | Netherlands | 282 |
-| CA Vancouver | 278 |
-| US Chicago | 274 |
-| CA Toronto | 270 |
-| US Texas | 269 |
-| US West | 263 |
-| UK London | 263 |
-| US California | 258 |
-| US Silicon Valley | 257 |
-| US New York | 254 |
-| US Las Vegas | 250 |
-| CA Ontario | 247 |
-| US Atlanta | 245 |
-| US Washington DC | 243 |
-| US Seattle | 239 |
-| US East | 238 |
-| AU Melbourne | 238 |
-| US Florida | 234 |
-| DE Frankfurt | 217 |
-| AU Sydney | 206 |
+| CA Vancouver | 279 |
+| US Chicago | 275 |
+| CA Toronto | 273 |
+| US Texas | 270 |
+| US West | 266 |
+| UK London | 264 |
+| US California | 259 |
+| US Silicon Valley | 259 |
+| US New York | 257 |
+| US Las Vegas | 252 |
+| CA Ontario | 250 |
+| US Atlanta | 247 |
+| US Washington DC | 246 |
+| US Seattle | 241 |
+| US East | 240 |
+| AU Melbourne | 239 |
+| US Florida | 237 |
+| DE Frankfurt | 219 |
+| AU Sydney | 207 |
 | Switzerland | 203 |
-| DE Berlin | 193 |
-| US Houston | 184 |
-| UK Manchester | 182 |
+| DE Berlin | 194 |
+| US Houston | 185 |
+| UK Manchester | 183 |
 | UK Southampton | 182 |
-| Singapore | 174 |
-| US Denver | 172 |
-| AU Perth | 157 |
+| Singapore | 177 |
+| US Denver | 174 |
+| AU Perth | 159 |
 | Japan | 153 |
 | New Zealand | 153 |
 | Sweden | 151 |
-| France | 137 |
+| France | 138 |
 | Mexico | 127 |
-| Ireland | 117 |
+| Ireland | 118 |
 | Norway | 103 |
 | Israel | 97 |
 | Spain | 94 |
