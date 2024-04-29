@@ -35,10 +35,10 @@ public final class PIAServerList {
         int loaded = servers.size() - before;
         System.out.println("Loaded " + loaded + " server(s) from the servers file");
 
-        // Delete servers that haven't been seen in more than a week
+        // Delete servers that haven't been seen in more than two weeks
         before = servers.size();
-        servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(7L));
-        System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than a week");
+        servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(14L));
+        System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than two weeks");
 
         // Write the servers to the servers file
         System.out.println("Writing servers file...");
