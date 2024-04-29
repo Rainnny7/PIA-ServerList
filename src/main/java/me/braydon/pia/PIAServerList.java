@@ -8,10 +8,8 @@ import lombok.NonNull;
 import lombok.SneakyThrows;
 import me.braydon.pia.readme.ReadMeManager;
 import net.lingala.zip4j.ZipFile;
-import org.xbill.DNS.ARecord;
-import org.xbill.DNS.Lookup;
+import org.xbill.DNS.*;
 import org.xbill.DNS.Record;
-import org.xbill.DNS.Type;
 
 import java.io.*;
 import java.net.URL;
@@ -34,6 +32,7 @@ public final class PIAServerList {
 
     @SneakyThrows
     public static void main(@NonNull String[] args) {
+        Lookup.setDefaultResolver(new SimpleResolver("1.1.1.1")); // Use CF DNS
         Set<PIAServer> servers = getNewServers(); // Get the new servers from PIA
         int before = servers.size();
         servers.addAll(loadServersFromFile()); // Load servers from the file
