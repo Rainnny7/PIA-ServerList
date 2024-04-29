@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-12,660-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-12,695-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_15:30_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_15:40_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,31 +10,31 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 405 |
-| CA Vancouver | 396 |
-| Netherlands | 394 |
-| US Texas | 381 |
-| US Chicago | 378 |
-| CA Toronto | 373 |
-| US West | 357 |
-| US Silicon Valley | 353 |
-| CA Ontario | 351 |
-| UK London | 349 |
-| US Las Vegas | 341 |
-| US Atlanta | 339 |
-| US California | 337 |
-| US Washington DC | 334 |
-| US New York | 333 |
-| AU Melbourne | 324 |
-| US Seattle | 316 |
-| US East | 315 |
+| CA Montreal | 408 |
+| CA Vancouver | 397 |
+| Netherlands | 397 |
+| US Texas | 382 |
+| US Chicago | 380 |
+| CA Toronto | 375 |
+| US West | 358 |
+| US Silicon Valley | 355 |
+| CA Ontario | 352 |
+| UK London | 351 |
+| US Las Vegas | 342 |
+| US Atlanta | 342 |
+| US California | 338 |
+| US Washington DC | 335 |
+| US New York | 334 |
+| AU Melbourne | 326 |
+| US Seattle | 317 |
+| US East | 317 |
 | US Florida | 298 |
 | DE Frankfurt | 286 |
 | AU Sydney | 274 |
-| Switzerland | 255 |
+| Switzerland | 256 |
 | DE Berlin | 229 |
-| US Houston | 228 |
-| Singapore | 210 |
+| US Houston | 229 |
+| Singapore | 211 |
 | UK Manchester | 207 |
 | US Denver | 204 |
 | UK Southampton | 190 |
@@ -45,7 +45,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | France | 156 |
 | Mexico | 135 |
 | Ireland | 129 |
-| Norway | 108 |
+| Norway | 110 |
 | Israel | 100 |
 | Spain | 99 |
 | Denmark | 96 |
