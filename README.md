@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,782-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,813-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_10:40_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_29_2024_10:50_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,29 +10,29 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 354 |
-| Netherlands | 345 |
-| CA Vancouver | 343 |
-| US Texas | 339 |
-| US Chicago | 337 |
-| CA Toronto | 333 |
+| CA Montreal | 357 |
+| Netherlands | 347 |
+| CA Vancouver | 344 |
+| US Texas | 341 |
+| US Chicago | 339 |
+| CA Toronto | 335 |
 | US West | 324 |
-| UK London | 322 |
+| UK London | 324 |
 | US Silicon Valley | 318 |
-| US Las Vegas | 311 |
-| US California | 310 |
+| US Las Vegas | 312 |
+| US California | 311 |
 | CA Ontario | 307 |
-| US Atlanta | 305 |
-| US New York | 301 |
-| US Washington DC | 298 |
-| AU Melbourne | 291 |
-| US Seattle | 288 |
-| US East | 285 |
-| US Florida | 276 |
-| DE Frankfurt | 251 |
-| AU Sydney | 248 |
+| US Atlanta | 306 |
+| US New York | 302 |
+| US Washington DC | 300 |
+| AU Melbourne | 292 |
+| US Seattle | 289 |
+| US East | 286 |
+| US Florida | 277 |
+| DE Frankfurt | 252 |
+| AU Sydney | 249 |
 | Switzerland | 227 |
-| DE Berlin | 216 |
+| DE Berlin | 217 |
 | US Houston | 214 |
 | Singapore | 198 |
 | UK Manchester | 197 |
@@ -40,9 +40,9 @@ Wanna see the IP list? [Click Here](./servers.json)
 | UK Southampton | 189 |
 | Sweden | 168 |
 | AU Perth | 168 |
-| Japan | 166 |
-| New Zealand | 166 |
-| France | 148 |
+| New Zealand | 168 |
+| Japan | 167 |
+| France | 149 |
 | Mexico | 133 |
 | Ireland | 125 |
 | Norway | 105 |
