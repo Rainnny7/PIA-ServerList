@@ -37,7 +37,8 @@ public final class PIAServerList {
             Set<PIAServer> servers = getNewServers(regionAddresses); // Get the new servers from PIA
             int before = servers.size();
             servers.addAll(loadServersFromFile()); // Load servers from the file
-            System.out.println("Loaded " + (servers.size() - before) + " server(s) from the servers file");
+            int loaded = servers.size() - before;
+            System.out.println("Loaded " + loaded + " server(s) from the servers file");
 
             // Delete servers that haven't been seen in more than a week
             before = servers.size();
@@ -49,7 +50,7 @@ public final class PIAServerList {
             try (FileWriter fileWriter = new FileWriter(SERVERS_FILE)) {
                 GSON.toJson(servers, fileWriter);
             }
-            System.out.println("Done, wrote " + servers.size() + " servers to the file");
+            System.out.println("Done, wrote " + servers.size() + " servers to the file (+" + (servers.size() - loaded) + " New)");
 
             // Update the README.md file
             ReadMeManager.update(servers);
