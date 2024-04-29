@@ -32,38 +32,34 @@ public final class PIAServerList {
     @SneakyThrows
     public static void main(@NonNull String[] args) {
         Map<String, String> regionAddresses = getRegionAddresses(); // Get region address from PIA
-        Set<PIAServer> servers = new HashSet<>();
 
         for (int i = 0; i < TOTAL_RUNS; i++) {
+            Set<PIAServer> servers = getNewServers(regionAddresses); // Get the new servers from PIA
             int before = servers.size();
-            servers.addAll(getNewServers(regionAddresses)); // Add new servers from PIA
-            System.out.println("Added " + (servers.size() - before) + " new server(s) from PIA");
+            servers.addAll(loadServersFromFile()); // Load servers from the file
+            System.out.println("Loaded " + (servers.size() - before) + " server(s) from the servers file");
 
-            // Sleep for 3 mins
+            // Delete servers that haven't been seen in more than a week
+            before = servers.size();
+            servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(7L));
+            System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than a week");
+
+            // Write the servers to the servers file
+            System.out.println("Writing servers file...");
+            try (FileWriter fileWriter = new FileWriter(SERVERS_FILE)) {
+                GSON.toJson(servers, fileWriter);
+            }
+            System.out.println("Done, wrote " + servers.size() + " servers to the file");
+
+            // Update the README.md file
+            ReadMeManager.update(servers);
+
+            // Sleep before running again
             if (i < TOTAL_RUNS - 1) {
-                System.out.println("Sleeping, waiting for another run...");
+                System.out.println("Sleeping...");
                 Thread.sleep(TimeUnit.MINUTES.toMillis(4L));
             }
         }
-
-        // Delete servers that haven't been seen in more than a week
-        int before = servers.size();
-        servers.addAll(loadServersFromFile()); // Load servers from the file
-        System.out.println("Loaded " + (servers.size() - before) + " server(s) from the servers file");
-
-        before = servers.size();
-        servers.removeIf(server -> (System.currentTimeMillis() - server.getLastSeen()) >= TimeUnit.DAYS.toMillis(7L));
-        System.out.println("Removed " + (before - servers.size()) + " server(s) that haven't been seen in more than a week");
-
-        // Write the servers to the servers file
-        System.out.println("Writing servers file...");
-        try (FileWriter fileWriter = new FileWriter(SERVERS_FILE)) {
-            GSON.toJson(servers, fileWriter);
-        }
-        System.out.println("Done, wrote " + servers.size() + " servers to the file");
-
-        // Update the README.md file
-        ReadMeManager.update(servers);
     }
 
     /**
