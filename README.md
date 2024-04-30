@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-15,842-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-15,867-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_14:30_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_14:40_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -11,31 +11,31 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Region               | Servers |
 |----------------------|---------|
 | CA Montreal | 597 |
-| Netherlands | 582 |
-| CA Vancouver | 576 |
-| US Chicago | 566 |
-| US Texas | 531 |
-| CA Toronto | 513 |
+| Netherlands | 583 |
+| CA Vancouver | 578 |
+| US Chicago | 567 |
+| US Texas | 533 |
+| CA Toronto | 514 |
 | US Silicon Valley | 492 |
-| CA Ontario | 489 |
-| US West | 485 |
+| CA Ontario | 490 |
+| US West | 487 |
 | UK London | 471 |
-| US Atlanta | 465 |
-| US New York | 461 |
-| US Las Vegas | 459 |
+| US Atlanta | 466 |
+| US New York | 462 |
+| US Las Vegas | 460 |
 | US East | 453 |
-| US Washington DC | 451 |
-| US California | 437 |
-| US Seattle | 421 |
+| US Washington DC | 453 |
+| US California | 438 |
+| US Seattle | 422 |
 | US Florida | 406 |
 | AU Melbourne | 405 |
-| DE Frankfurt | 384 |
-| AU Sydney | 328 |
+| DE Frankfurt | 386 |
+| AU Sydney | 329 |
 | US Houston | 317 |
-| Switzerland | 314 |
-| UK Southampton | 296 |
-| DE Berlin | 255 |
-| US Denver | 233 |
+| Switzerland | 315 |
+| UK Southampton | 297 |
+| DE Berlin | 256 |
+| US Denver | 234 |
 | Singapore | 232 |
 | UK Manchester | 223 |
 | Sweden | 187 |
@@ -46,7 +46,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Mexico | 137 |
 | Ireland | 132 |
 | Norway | 112 |
-| Estonia | 101 |
+| Estonia | 102 |
 | Israel | 100 |
 | Spain | 99 |
 | Denmark | 96 |
