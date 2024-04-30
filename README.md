@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-15,011-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-15,036-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_07:20_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_07:30_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,31 +10,31 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 551 |
-| Netherlands | 540 |
-| CA Vancouver | 532 |
-| US Chicago | 516 |
-| US Texas | 494 |
+| CA Montreal | 552 |
+| Netherlands | 541 |
+| CA Vancouver | 535 |
+| US Chicago | 519 |
+| US Texas | 495 |
 | CA Toronto | 478 |
-| US West | 457 |
+| US West | 458 |
 | US Silicon Valley | 456 |
-| CA Ontario | 448 |
-| UK London | 437 |
+| CA Ontario | 449 |
+| UK London | 438 |
 | US Atlanta | 434 |
-| US New York | 430 |
-| US Las Vegas | 426 |
-| US Washington DC | 421 |
-| US East | 415 |
+| US New York | 431 |
+| US Las Vegas | 427 |
+| US Washington DC | 422 |
+| US East | 417 |
 | US California | 412 |
-| US Seattle | 387 |
+| US Seattle | 388 |
 | AU Melbourne | 384 |
-| US Florida | 382 |
-| DE Frankfurt | 360 |
-| AU Sydney | 311 |
+| US Florida | 383 |
+| DE Frankfurt | 361 |
+| AU Sydney | 312 |
 | Switzerland | 300 |
 | UK Southampton | 275 |
-| US Houston | 259 |
-| DE Berlin | 252 |
+| US Houston | 260 |
+| DE Berlin | 253 |
 | Singapore | 230 |
 | US Denver | 230 |
 | UK Manchester | 221 |
@@ -42,7 +42,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | AU Perth | 181 |
 | New Zealand | 181 |
 | Japan | 179 |
-| France | 167 |
+| France | 168 |
 | Mexico | 137 |
 | Ireland | 132 |
 | Norway | 112 |
@@ -79,8 +79,8 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Albania | 36 |
 | Philippines | 36 |
 | Algeria | 36 |
+| Portugal | 33 |
 | Qatar | 33 |
-| Portugal | 32 |
 | Bangladesh | 31 |
 | Hungary | 30 |
 | India | 30 |
