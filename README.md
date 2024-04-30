@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-14,860-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-14,883-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_06:10_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_06:20_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,38 +10,38 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 542 |
+| CA Montreal | 543 |
 | Netherlands | 533 |
-| CA Vancouver | 527 |
+| CA Vancouver | 528 |
 | US Chicago | 509 |
-| US Texas | 487 |
+| US Texas | 488 |
 | CA Toronto | 472 |
 | US West | 454 |
 | US Silicon Valley | 451 |
-| CA Ontario | 441 |
+| CA Ontario | 442 |
 | UK London | 432 |
-| US Atlanta | 429 |
-| US New York | 424 |
-| US Las Vegas | 418 |
-| US Washington DC | 415 |
+| US Atlanta | 430 |
+| US New York | 426 |
+| US Las Vegas | 419 |
+| US Washington DC | 416 |
 | US East | 411 |
 | US California | 406 |
+| US Seattle | 383 |
 | AU Melbourne | 383 |
-| US Seattle | 382 |
-| US Florida | 376 |
-| DE Frankfurt | 356 |
-| AU Sydney | 307 |
-| Switzerland | 299 |
-| UK Southampton | 271 |
-| DE Berlin | 250 |
-| US Houston | 249 |
-| Singapore | 229 |
-| US Denver | 227 |
+| US Florida | 377 |
+| DE Frankfurt | 357 |
+| AU Sydney | 309 |
+| Switzerland | 300 |
+| UK Southampton | 273 |
+| DE Berlin | 251 |
+| US Houston | 250 |
+| Singapore | 230 |
+| US Denver | 228 |
 | UK Manchester | 220 |
 | Sweden | 183 |
 | AU Perth | 181 |
+| New Zealand | 180 |
 | Japan | 179 |
-| New Zealand | 179 |
 | France | 166 |
 | Mexico | 137 |
 | Ireland | 132 |
@@ -88,7 +88,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Saudi Arabia | 28 |
 | Bulgaria | 28 |
 | South Africa | 28 |
-| Portugal | 26 |
+| Portugal | 27 |
 | Macao | 26 |
 | Montenegro | 26 |
 | Nigeria | 25 |
