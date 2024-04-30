@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-14,795-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-14,821-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_05:40_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-April_30_2024_05:50_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,32 +10,32 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| CA Montreal | 538 |
+| CA Montreal | 539 |
 | Netherlands | 531 |
-| CA Vancouver | 525 |
+| CA Vancouver | 526 |
 | US Chicago | 507 |
-| US Texas | 481 |
-| CA Toronto | 469 |
+| US Texas | 484 |
+| CA Toronto | 471 |
 | US West | 452 |
-| US Silicon Valley | 447 |
-| CA Ontario | 440 |
-| UK London | 430 |
-| US Atlanta | 428 |
-| US New York | 421 |
-| US Las Vegas | 414 |
-| US Washington DC | 412 |
-| US East | 406 |
-| US California | 405 |
+| US Silicon Valley | 448 |
+| CA Ontario | 441 |
+| UK London | 431 |
+| US Atlanta | 429 |
+| US New York | 422 |
+| US Las Vegas | 416 |
+| US Washington DC | 413 |
+| US East | 408 |
+| US California | 406 |
 | US Seattle | 382 |
 | AU Melbourne | 382 |
-| US Florida | 374 |
-| DE Frankfurt | 355 |
+| US Florida | 375 |
+| DE Frankfurt | 356 |
 | AU Sydney | 307 |
-| Switzerland | 298 |
+| Switzerland | 299 |
 | UK Southampton | 268 |
 | DE Berlin | 249 |
-| US Houston | 248 |
-| Singapore | 228 |
+| US Houston | 249 |
+| Singapore | 229 |
 | US Denver | 227 |
 | UK Manchester | 218 |
 | Sweden | 183 |
@@ -57,7 +57,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Argentina | 75 |
 | Austria | 71 |
 | Brazil | 69 |
-| Panama | 62 |
+| Panama | 63 |
 | Luxembourg | 62 |
 | Romania | 60 |
 | Latvia | 60 |
@@ -92,6 +92,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Montenegro | 26 |
 | Nigeria | 25 |
 | Moldova | 24 |
+| Portugal | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
 | Morocco | 24 |
@@ -99,7 +100,6 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Iceland | 24 |
 | Kazakhstan | 23 |
 | Macedonia | 23 |
-| Portugal | 22 |
 | Monaco | 22 |
 | Georgia | 22 |
 | Hong Kong | 20 |
