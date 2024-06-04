@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-20,366-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-20,368-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-June_4_2024_11:50_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-June_4_2024_12:00_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -74,9 +74,9 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Greece | 45 |
 | Belgium | 44 |
 | Portugal | 43 |
+| India | 39 |
 | United Arab Emirates | 38 |
 | China | 38 |
-| India | 37 |
 | Malta | 37 |
 | Albania | 36 |
 | Philippines | 36 |
