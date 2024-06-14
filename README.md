@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-20,457-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-20,458-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-June_14_2024_09:01_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-June_14_2024_09:11_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -39,8 +39,8 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Singapore | 238 |
 | UK Manchester | 225 |
 | Sweden | 193 |
+| France | 184 |
 | AU Perth | 183 |
-| France | 183 |
 | New Zealand | 183 |
 | Japan | 180 |
 | Mexico | 139 |
