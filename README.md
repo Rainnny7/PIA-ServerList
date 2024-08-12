@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-16,956-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-16,955-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-August_12_2024_04:11_EDT-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-August_12_2024_04:21_EDT-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -15,7 +15,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | US Texas | 753 |
 | CA Montreal | 657 |
 | US West | 609 |
-| US Silicon Valley | 609 |
+| US Silicon Valley | 608 |
 | US Washington DC | 605 |
 | CA Toronto | 600 |
 | US New York | 584 |
