@@ -3,7 +3,7 @@
 ![Last Updated](https://img.shields.io/badge/Last_Updated-September_21_2024_21:11_EDT-darkgreen)
 
 # PIA-ServerList
-An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
+An automatically updated list of IPs for PIA servers, this list is updated every 30 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
 
 Wanna see the IP list? [Click Here](./servers.json)
 
