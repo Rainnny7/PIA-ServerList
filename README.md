@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-15,452-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-15,449-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-November_20_2024_19:30_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-November_20_2024_20:00_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,9 +10,9 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Texas | 644 |
-| US Chicago | 620 |
-| Netherlands | 606 |
+| US Texas | 645 |
+| US Chicago | 617 |
+| Netherlands | 607 |
 | US West | 604 |
 | CA Montreal | 571 |
 | CA Toronto | 542 |
@@ -23,13 +23,13 @@ Wanna see the IP list? [Click Here](./servers.json)
 | US East | 485 |
 | US California | 474 |
 | US Silicon Valley | 469 |
-| US Florida | 441 |
-| AU Melbourne | 426 |
-| CA Vancouver | 419 |
+| US Florida | 440 |
+| AU Melbourne | 425 |
+| CA Vancouver | 420 |
 | UK London | 398 |
 | US Seattle | 385 |
 | DE Frankfurt | 323 |
-| AU Sydney | 318 |
+| AU Sydney | 317 |
 | Switzerland | 277 |
 | US Denver | 262 |
 | DE Berlin | 231 |
