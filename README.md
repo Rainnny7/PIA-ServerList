@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-3,016-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-3,156-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_12_2024_08:30_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_12_2024_09:00_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,98 +10,98 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US New York | 45 |
-| US Chicago | 44 |
-| Netherlands | 44 |
-| US Silicon Valley | 44 |
-| US Las Vegas | 43 |
-| US East | 43 |
-| Switzerland | 43 |
-| US West | 43 |
-| CA Toronto | 43 |
-| UK London | 43 |
-| US Texas | 43 |
-| DE Frankfurt | 43 |
-| US Atlanta | 43 |
-| US Florida | 42 |
-| CA Vancouver | 42 |
-| US Seattle | 42 |
-| DE Berlin | 42 |
-| US California | 42 |
-| US Denver | 42 |
-| CA Montreal | 42 |
-| US Washington DC | 41 |
-| CA Ontario | 41 |
-| AU Perth | 40 |
-| France | 40 |
-| AU Sydney | 40 |
-| AU Melbourne | 40 |
-| Japan | 39 |
-| UK Manchester | 39 |
-| Norway | 39 |
-| UK Southampton | 39 |
-| US Houston | 39 |
-| Ireland | 39 |
-| Singapore | 36 |
-| Denmark | 36 |
-| New Zealand | 36 |
-| Estonia | 35 |
+| US New York | 47 |
+| Netherlands | 47 |
+| US Las Vegas | 46 |
+| US East | 46 |
+| US West | 46 |
+| CA Toronto | 46 |
+| UK London | 46 |
+| US Chicago | 46 |
+| US Texas | 46 |
+| US Silicon Valley | 46 |
+| US Atlanta | 46 |
+| US Seattle | 45 |
+| US Denver | 45 |
+| DE Frankfurt | 45 |
+| US Florida | 44 |
+| CA Vancouver | 44 |
+| DE Berlin | 44 |
+| Switzerland | 44 |
+| US California | 44 |
+| US Washington DC | 43 |
+| AU Melbourne | 43 |
+| CA Ontario | 43 |
+| CA Montreal | 43 |
+| Norway | 42 |
+| AU Perth | 42 |
+| France | 42 |
+| UK Southampton | 42 |
+| AU Sydney | 42 |
+| US Houston | 42 |
+| Japan | 41 |
+| Ireland | 41 |
+| UK Manchester | 40 |
+| Estonia | 38 |
+| Singapore | 38 |
+| Mexico | 37 |
+| Denmark | 37 |
+| New Zealand | 37 |
+| Israel | 37 |
+| Sweden | 36 |
+| Ukraine | 36 |
+| Czech Republic | 36 |
 | Spain | 35 |
-| Mexico | 35 |
-| Israel | 35 |
-| Sweden | 34 |
-| Ukraine | 34 |
-| Czech Republic | 34 |
-| Romania | 34 |
-| India | 34 |
-| Finland | 33 |
+| Finland | 35 |
+| Romania | 35 |
+| India | 35 |
+| Turkey | 34 |
+| Luxembourg | 34 |
+| Argentina | 34 |
+| Austria | 33 |
+| Greenland | 33 |
+| Bahamas | 33 |
 | Latvia | 33 |
-| Turkey | 32 |
-| Greenland | 32 |
-| Luxembourg | 32 |
-| Poland | 31 |
-| Austria | 31 |
-| Argentina | 31 |
+| Poland | 32 |
+| Belgium | 32 |
+| Taiwan | 32 |
+| Brazil | 32 |
+| Lithuania | 31 |
+| Panama | 31 |
+| Italy | 31 |
 | Slovakia | 31 |
-| Taiwan | 31 |
-| Lithuania | 30 |
-| Panama | 30 |
-| Bahamas | 30 |
-| Belgium | 30 |
-| Brazil | 30 |
-| Venezuela | 29 |
-| Italy | 29 |
-| Vietnam | 28 |
-| Greece | 28 |
+| Venezuela | 30 |
+| Vietnam | 29 |
+| Greece | 29 |
+| Andorra | 27 |
+| United Arab Emirates | 27 |
 | Algeria | 27 |
-| Andorra | 26 |
+| Albania | 26 |
 | China | 26 |
-| United Arab Emirates | 25 |
+| Saudi Arabia | 25 |
 | Philippines | 25 |
-| Albania | 24 |
-| Saudi Arabia | 24 |
 | Bangladesh | 24 |
+| Portugal | 23 |
 | Liechtenstein | 23 |
+| Isle OF Man | 23 |
+| Malta | 23 |
 | Montenegro | 23 |
-| Portugal | 22 |
-| Isle OF Man | 22 |
-| Malta | 22 |
+| Cambodia | 22 |
 | Qatar | 22 |
-| Cambodia | 21 |
+| Moldova | 21 |
+| Cyprus | 21 |
+| Bulgaria | 21 |
 | Morocco | 21 |
-| Cyprus | 20 |
 | Nigeria | 20 |
-| Bulgaria | 20 |
+| Macao | 20 |
+| Kazakhstan | 20 |
 | South Africa | 20 |
+| Egypt | 20 |
 | Iceland | 20 |
-| Moldova | 19 |
-| Macao | 19 |
-| Kazakhstan | 19 |
-| Egypt | 19 |
 | Monaco | 18 |
 | Georgia | 18 |
+| Hungary | 16 |
 | Macedonia | 16 |
-| Hungary | 15 |
 | Hong Kong | 15 |
 | Serbia | 13 |
 | Armenia | 12 |
