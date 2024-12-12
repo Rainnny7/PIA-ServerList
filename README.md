@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-1,659-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-1,858-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_12_2024_04:30_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_12_2024_05:00_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,100 +10,100 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US California | 21 |
-| US West | 21 |
-| AU Perth | 21 |
-| CA Toronto | 21 |
-| US New York | 21 |
-| UK London | 21 |
-| US Chicago | 21 |
-| Netherlands | 21 |
-| US Texas | 21 |
-| DE Frankfurt | 21 |
-| US Silicon Valley | 21 |
-| Denmark | 21 |
-| CA Ontario | 21 |
-| Estonia | 20 |
-| CA Vancouver | 20 |
-| US Seattle | 20 |
-| US Las Vegas | 20 |
-| DE Berlin | 20 |
-| UK Manchester | 20 |
-| Spain | 20 |
-| Singapore | 20 |
-| AU Sydney | 20 |
-| New Zealand | 20 |
-| US Houston | 20 |
-| CA Montreal | 20 |
-| US Atlanta | 20 |
-| Poland | 19 |
-| US Florida | 19 |
-| US East | 19 |
-| Switzerland | 19 |
-| Vietnam | 19 |
-| Ukraine | 19 |
-| Austria | 19 |
-| Italy | 19 |
-| US Denver | 19 |
-| France | 19 |
-| Belgium | 19 |
-| US Washington DC | 19 |
-| UK Southampton | 19 |
-| Romania | 19 |
-| Latvia | 19 |
-| Ireland | 19 |
-| Japan | 18 |
-| Venezuela | 18 |
-| Greenland | 18 |
-| Greece | 18 |
-| Luxembourg | 18 |
-| Mexico | 18 |
-| Norway | 18 |
-| Slovakia | 18 |
-| Taiwan | 18 |
-| AU Melbourne | 18 |
-| Israel | 18 |
-| Albania | 17 |
-| Sweden | 17 |
-| Saudi Arabia | 17 |
-| Turkey | 17 |
-| Algeria | 17 |
-| Finland | 17 |
-| Argentina | 17 |
-| Czech Republic | 17 |
-| India | 17 |
-| Andorra | 16 |
-| Philippines | 16 |
-| Lithuania | 16 |
+| US California | 24 |
+| CA Toronto | 24 |
+| US New York | 24 |
+| UK London | 24 |
+| US Chicago | 24 |
+| Netherlands | 24 |
+| US Texas | 24 |
+| DE Frankfurt | 24 |
+| US Silicon Valley | 24 |
+| CA Ontario | 24 |
+| CA Vancouver | 23 |
+| US Seattle | 23 |
+| US Las Vegas | 23 |
+| DE Berlin | 23 |
+| UK Manchester | 23 |
+| US West | 23 |
+| AU Perth | 23 |
+| AU Sydney | 23 |
+| Denmark | 23 |
+| US Houston | 23 |
+| CA Montreal | 23 |
+| US Atlanta | 23 |
+| US Florida | 22 |
+| Estonia | 22 |
+| US East | 22 |
+| Switzerland | 22 |
+| Vietnam | 22 |
+| Ukraine | 22 |
+| Spain | 22 |
+| Singapore | 22 |
+| US Denver | 22 |
+| France | 22 |
+| Belgium | 22 |
+| US Washington DC | 22 |
+| UK Southampton | 22 |
+| New Zealand | 22 |
+| Japan | 21 |
+| Austria | 21 |
+| Norway | 21 |
+| Taiwan | 21 |
+| Romania | 21 |
+| AU Melbourne | 21 |
+| Latvia | 21 |
+| Israel | 21 |
+| Ireland | 21 |
+| Poland | 20 |
+| Venezuela | 20 |
+| Greenland | 20 |
+| Luxembourg | 20 |
+| Italy | 20 |
+| Mexico | 20 |
+| Slovakia | 20 |
+| Czech Republic | 20 |
+| India | 20 |
+| Sweden | 19 |
+| Saudi Arabia | 19 |
+| Turkey | 19 |
+| Panama | 19 |
+| Greece | 19 |
+| Finland | 19 |
+| Argentina | 19 |
+| Albania | 18 |
+| Andorra | 18 |
+| Algeria | 18 |
+| Bahamas | 18 |
+| Qatar | 18 |
+| China | 18 |
+| United Arab Emirates | 17 |
+| Philippines | 17 |
+| Cambodia | 17 |
+| Lithuania | 17 |
+| Isle OF Man | 17 |
+| South Africa | 17 |
+| Portugal | 16 |
 | Monaco | 16 |
-| Panama | 16 |
-| Bahamas | 16 |
-| South Africa | 16 |
-| Qatar | 16 |
-| China | 16 |
-| United Arab Emirates | 15 |
-| Cambodia | 15 |
-| Isle OF Man | 15 |
-| Iceland | 15 |
+| Brazil | 16 |
+| Iceland | 16 |
+| Georgia | 15 |
+| Egypt | 15 |
+| Malta | 15 |
+| Montenegro | 15 |
 | Bangladesh | 15 |
-| Portugal | 14 |
-| Georgia | 14 |
+| Moldova | 14 |
+| Nigeria | 14 |
+| Bulgaria | 14 |
+| Macao | 14 |
 | Liechtenstein | 14 |
-| Brazil | 14 |
-| Malta | 14 |
-| Montenegro | 14 |
-| Moldova | 13 |
+| Kazakhstan | 14 |
 | Cyprus | 13 |
-| Nigeria | 13 |
-| Egypt | 13 |
-| Bulgaria | 12 |
-| Macao | 12 |
-| Morocco | 12 |
-| Kazakhstan | 12 |
+| Morocco | 13 |
+| Hong Kong | 12 |
 | Macedonia | 12 |
-| Hong Kong | 11 |
+| Serbia | 11 |
 | Sri Lanka | 11 |
+| Armenia | 10 |
 | Mongolia | 10 |
-| Serbia | 10 |
-| Armenia | 9 |
-| Hungary | 5 |
+| Hungary | 7 |
