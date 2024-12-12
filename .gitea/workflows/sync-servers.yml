@@ -23,7 +23,7 @@ jobs:
 
       # Setup Java and Maven
       - name: Set up JDK and Maven
-        uses: s4u/setup-maven-action@v1.16.0
+        uses: s4u/setup-maven-action@v1.17.0
         with:
           java-version: ${{ matrix.java-version }}
           distribution: "zulu"
