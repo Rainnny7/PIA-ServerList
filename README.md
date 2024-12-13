@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-7,321-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-7,377-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_13_2024_08:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_13_2024_08:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,42 +10,42 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Texas | 160 |
-| Netherlands | 158 |
-| US Florida | 155 |
-| US California | 154 |
-| US Chicago | 154 |
-| US West | 153 |
-| US New York | 153 |
-| US Atlanta | 153 |
-| CA Toronto | 152 |
-| US Washington DC | 151 |
-| US Las Vegas | 150 |
-| US East | 150 |
-| CA Montreal | 150 |
-| CA Vancouver | 147 |
-| AU Melbourne | 146 |
-| US Seattle | 145 |
-| US Silicon Valley | 145 |
-| UK London | 143 |
-| AU Sydney | 136 |
-| Switzerland | 133 |
-| US Denver | 130 |
-| DE Frankfurt | 130 |
+| US Texas | 163 |
+| Netherlands | 160 |
+| US Florida | 157 |
+| US Chicago | 157 |
+| US California | 156 |
+| US West | 155 |
+| US New York | 155 |
+| US Atlanta | 155 |
+| CA Toronto | 154 |
+| US Washington DC | 153 |
+| CA Montreal | 153 |
+| US East | 152 |
+| US Las Vegas | 151 |
+| CA Vancouver | 148 |
+| AU Melbourne | 148 |
+| US Seattle | 146 |
+| UK London | 146 |
+| US Silicon Valley | 146 |
+| AU Sydney | 139 |
+| Switzerland | 134 |
+| DE Frankfurt | 132 |
+| US Denver | 131 |
+| DE Berlin | 130 |
 | CA Ontario | 130 |
-| DE Berlin | 128 |
-| US Houston | 115 |
+| US Houston | 117 |
 | UK Manchester | 113 |
 | AU Perth | 112 |
 | Japan | 111 |
-| UK Southampton | 110 |
+| UK Southampton | 111 |
 | New Zealand | 108 |
 | France | 107 |
-| Sweden | 97 |
-| Ireland | 97 |
+| Sweden | 98 |
+| Ireland | 98 |
 | Estonia | 96 |
-| Mexico | 95 |
-| Norway | 89 |
+| Mexico | 96 |
+| Norway | 90 |
 | Spain | 86 |
 | Israel | 80 |
 | Belgium | 78 |
@@ -53,12 +53,12 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Denmark | 75 |
 | Italy | 74 |
 | Finland | 73 |
-| Singapore | 71 |
+| Singapore | 72 |
 | Czech Republic | 69 |
 | Austria | 67 |
-| Argentina | 63 |
+| Argentina | 64 |
 | Poland | 62 |
-| Panama | 59 |
+| Panama | 60 |
 | Romania | 59 |
 | Luxembourg | 58 |
 | Brazil | 57 |
@@ -84,10 +84,10 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Bangladesh | 31 |
 | Liechtenstein | 29 |
 | Saudi Arabia | 28 |
+| Hungary | 28 |
 | Bulgaria | 28 |
 | Isle OF Man | 28 |
 | Qatar | 28 |
-| Hungary | 27 |
 | Macao | 26 |
 | Montenegro | 26 |
 | Moldova | 24 |
