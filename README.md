@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-7,377-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-7,430-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_13_2024_08:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_13_2024_09:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,53 +10,53 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Texas | 163 |
-| Netherlands | 160 |
-| US Florida | 157 |
-| US Chicago | 157 |
-| US California | 156 |
-| US West | 155 |
-| US New York | 155 |
-| US Atlanta | 155 |
-| CA Toronto | 154 |
-| US Washington DC | 153 |
-| CA Montreal | 153 |
-| US East | 152 |
-| US Las Vegas | 151 |
-| CA Vancouver | 148 |
-| AU Melbourne | 148 |
-| US Seattle | 146 |
-| UK London | 146 |
-| US Silicon Valley | 146 |
-| AU Sydney | 139 |
-| Switzerland | 134 |
-| DE Frankfurt | 132 |
+| US Texas | 165 |
+| Netherlands | 161 |
+| US Florida | 159 |
+| US Chicago | 159 |
+| US California | 158 |
+| CA Toronto | 157 |
+| US West | 156 |
+| US New York | 156 |
+| CA Montreal | 156 |
+| US Atlanta | 156 |
+| US Washington DC | 155 |
+| US Las Vegas | 154 |
+| US East | 154 |
+| CA Vancouver | 150 |
+| AU Melbourne | 150 |
+| US Seattle | 148 |
+| UK London | 147 |
+| US Silicon Valley | 147 |
+| AU Sydney | 140 |
+| Switzerland | 136 |
+| DE Frankfurt | 133 |
+| DE Berlin | 131 |
 | US Denver | 131 |
-| DE Berlin | 130 |
 | CA Ontario | 130 |
-| US Houston | 117 |
-| UK Manchester | 113 |
-| AU Perth | 112 |
-| Japan | 111 |
+| US Houston | 118 |
+| UK Manchester | 115 |
+| Japan | 113 |
+| AU Perth | 113 |
 | UK Southampton | 111 |
 | New Zealand | 108 |
 | France | 107 |
-| Sweden | 98 |
+| Sweden | 100 |
 | Ireland | 98 |
 | Estonia | 96 |
 | Mexico | 96 |
 | Norway | 90 |
-| Spain | 86 |
+| Spain | 87 |
 | Israel | 80 |
 | Belgium | 78 |
-| Bahamas | 76 |
-| Denmark | 75 |
+| Bahamas | 77 |
+| Denmark | 76 |
 | Italy | 74 |
 | Finland | 73 |
-| Singapore | 72 |
+| Singapore | 73 |
 | Czech Republic | 69 |
 | Austria | 67 |
-| Argentina | 64 |
+| Argentina | 65 |
 | Poland | 62 |
 | Panama | 60 |
 | Romania | 59 |
@@ -66,12 +66,12 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Latvia | 57 |
 | Ukraine | 56 |
 | Lithuania | 54 |
-| Greenland | 53 |
+| Greenland | 54 |
 | Slovakia | 52 |
 | Turkey | 49 |
 | Andorra | 47 |
 | Taiwan | 45 |
-| Venezuela | 43 |
+| Venezuela | 44 |
 | Vietnam | 43 |
 | Portugal | 42 |
 | Greece | 42 |
