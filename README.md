@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-9,192-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-9,247-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_02:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_02:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,47 +10,47 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 231 |
-| Netherlands | 229 |
-| US Texas | 228 |
+| US Chicago | 233 |
+| Netherlands | 231 |
+| US Texas | 231 |
+| US Washington DC | 226 |
+| US California | 225 |
+| CA Toronto | 225 |
+| US Florida | 224 |
 | US East | 224 |
-| US Florida | 223 |
-| CA Toronto | 223 |
-| US Washington DC | 223 |
-| US California | 222 |
-| CA Montreal | 222 |
-| US West | 221 |
-| US Atlanta | 220 |
-| US New York | 217 |
-| US Las Vegas | 215 |
-| CA Vancouver | 206 |
-| AU Melbourne | 205 |
-| US Silicon Valley | 204 |
-| UK London | 203 |
-| US Seattle | 193 |
-| AU Sydney | 182 |
-| DE Frankfurt | 179 |
-| US Denver | 173 |
-| Switzerland | 168 |
+| US West | 224 |
+| CA Montreal | 224 |
+| US Atlanta | 223 |
+| US New York | 219 |
+| US Las Vegas | 217 |
+| CA Vancouver | 208 |
+| AU Melbourne | 207 |
+| US Silicon Valley | 206 |
+| UK London | 204 |
+| US Seattle | 194 |
+| AU Sydney | 183 |
+| DE Frankfurt | 180 |
+| US Denver | 174 |
+| Switzerland | 170 |
 | CA Ontario | 164 |
-| DE Berlin | 162 |
-| US Houston | 146 |
-| UK Manchester | 141 |
-| New Zealand | 141 |
-| AU Perth | 140 |
-| Japan | 138 |
-| France | 133 |
+| DE Berlin | 163 |
+| US Houston | 147 |
+| UK Manchester | 143 |
+| New Zealand | 142 |
+| AU Perth | 141 |
+| Japan | 139 |
+| France | 134 |
 | UK Southampton | 128 |
 | Sweden | 127 |
-| Ireland | 114 |
+| Ireland | 115 |
 | Estonia | 107 |
-| Mexico | 106 |
-| Singapore | 101 |
-| Norway | 101 |
+| Mexico | 107 |
+| Singapore | 103 |
+| Norway | 102 |
 | Spain | 94 |
 | Israel | 93 |
 | Bahamas | 88 |
-| Belgium | 87 |
+| Belgium | 88 |
 | Czech Republic | 84 |
 | Denmark | 84 |
 | Italy | 83 |
