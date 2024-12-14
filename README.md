@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-9,915-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-9,963-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_10:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_11:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,49 +10,49 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 264 |
-| US Washington DC | 256 |
-| Netherlands | 256 |
-| US Texas | 256 |
-| US West | 255 |
-| CA Toronto | 255 |
-| US Florida | 252 |
-| CA Montreal | 249 |
-| US East | 248 |
-| US California | 247 |
-| US New York | 247 |
-| US Atlanta | 247 |
+| US Chicago | 267 |
+| US Washington DC | 258 |
+| US Texas | 258 |
+| US West | 257 |
+| CA Toronto | 257 |
+| Netherlands | 257 |
+| US Florida | 253 |
+| CA Montreal | 252 |
+| US East | 251 |
+| US New York | 249 |
+| US Atlanta | 249 |
+| US California | 248 |
 | US Las Vegas | 242 |
-| AU Melbourne | 232 |
-| CA Vancouver | 231 |
-| US Silicon Valley | 227 |
-| UK London | 222 |
-| US Seattle | 221 |
-| AU Sydney | 201 |
-| DE Frankfurt | 199 |
-| US Denver | 188 |
-| Switzerland | 182 |
-| DE Berlin | 180 |
-| CA Ontario | 176 |
-| UK Manchester | 156 |
-| US Houston | 156 |
-| AU Perth | 151 |
+| AU Melbourne | 233 |
+| CA Vancouver | 232 |
+| US Silicon Valley | 229 |
+| UK London | 224 |
+| US Seattle | 222 |
+| AU Sydney | 202 |
+| DE Frankfurt | 200 |
+| US Denver | 189 |
+| Switzerland | 184 |
+| DE Berlin | 182 |
+| CA Ontario | 177 |
+| UK Manchester | 157 |
+| US Houston | 157 |
+| AU Perth | 152 |
 | New Zealand | 151 |
 | Japan | 145 |
 | France | 141 |
-| UK Southampton | 137 |
+| UK Southampton | 139 |
 | Sweden | 133 |
-| Ireland | 119 |
-| Mexico | 112 |
+| Ireland | 120 |
+| Mexico | 113 |
 | Singapore | 110 |
 | Estonia | 108 |
 | Norway | 104 |
-| Israel | 96 |
+| Israel | 97 |
 | Spain | 95 |
 | Belgium | 89 |
 | Czech Republic | 89 |
 | Bahamas | 88 |
-| Denmark | 87 |
+| Denmark | 88 |
 | Italy | 85 |
 | Finland | 79 |
 | Argentina | 75 |
