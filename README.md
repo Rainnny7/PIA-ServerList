@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-9,667-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-9,711-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_07:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_08:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,45 +10,45 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 252 |
-| US Texas | 248 |
-| US Washington DC | 247 |
-| Netherlands | 246 |
-| CA Toronto | 243 |
-| US West | 242 |
-| CA Montreal | 241 |
-| US Florida | 240 |
-| US East | 240 |
-| US New York | 238 |
-| US California | 237 |
-| US Atlanta | 236 |
-| US Las Vegas | 230 |
+| US Chicago | 254 |
+| US Texas | 250 |
+| US Washington DC | 248 |
+| Netherlands | 248 |
+| CA Toronto | 245 |
+| US West | 244 |
+| US Florida | 243 |
+| CA Montreal | 243 |
+| US East | 241 |
+| US New York | 240 |
+| US California | 239 |
+| US Atlanta | 239 |
+| US Las Vegas | 231 |
+| CA Vancouver | 224 |
 | AU Melbourne | 223 |
-| CA Vancouver | 222 |
-| US Silicon Valley | 219 |
-| UK London | 218 |
-| US Seattle | 212 |
-| AU Sydney | 195 |
-| DE Frankfurt | 193 |
+| US Silicon Valley | 220 |
+| UK London | 219 |
+| US Seattle | 214 |
+| AU Sydney | 196 |
+| DE Frankfurt | 194 |
 | US Denver | 182 |
 | Switzerland | 179 |
-| DE Berlin | 173 |
-| CA Ontario | 171 |
+| DE Berlin | 176 |
+| CA Ontario | 172 |
+| UK Manchester | 153 |
 | US Houston | 153 |
-| UK Manchester | 151 |
-| New Zealand | 149 |
+| New Zealand | 150 |
+| Japan | 144 |
 | AU Perth | 144 |
-| Japan | 143 |
-| France | 138 |
-| UK Southampton | 133 |
+| France | 139 |
+| UK Southampton | 134 |
 | Sweden | 132 |
 | Ireland | 118 |
 | Singapore | 109 |
 | Mexico | 108 |
 | Estonia | 107 |
 | Norway | 103 |
+| Israel | 96 |
 | Spain | 95 |
-| Israel | 95 |
 | Belgium | 89 |
 | Bahamas | 88 |
 | Czech Republic | 88 |
