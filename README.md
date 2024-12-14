@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-9,547-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-9,581-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_06:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_06:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,33 +10,33 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 247 |
-| US Texas | 243 |
-| US Washington DC | 241 |
-| Netherlands | 241 |
+| US Chicago | 248 |
+| US Texas | 244 |
+| US Washington DC | 243 |
+| Netherlands | 242 |
+| CA Toronto | 239 |
 | US Florida | 238 |
-| CA Toronto | 237 |
+| US West | 238 |
+| US East | 237 |
 | CA Montreal | 237 |
-| US East | 235 |
+| US New York | 236 |
 | US California | 235 |
-| US West | 235 |
-| US New York | 234 |
-| US Atlanta | 232 |
-| US Las Vegas | 226 |
-| AU Melbourne | 218 |
-| CA Vancouver | 217 |
-| US Silicon Valley | 215 |
-| UK London | 214 |
-| US Seattle | 206 |
-| DE Frankfurt | 188 |
-| AU Sydney | 188 |
+| US Atlanta | 233 |
+| US Las Vegas | 227 |
+| CA Vancouver | 219 |
+| AU Melbourne | 219 |
+| US Silicon Valley | 216 |
+| UK London | 215 |
+| US Seattle | 208 |
+| DE Frankfurt | 190 |
+| AU Sydney | 190 |
 | US Denver | 180 |
-| Switzerland | 176 |
-| DE Berlin | 170 |
-| CA Ontario | 169 |
+| Switzerland | 177 |
+| DE Berlin | 172 |
+| CA Ontario | 170 |
 | UK Manchester | 151 |
 | US Houston | 151 |
-| New Zealand | 147 |
+| New Zealand | 148 |
 | AU Perth | 144 |
 | Japan | 143 |
 | France | 137 |
@@ -53,9 +53,9 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Bahamas | 88 |
 | Czech Republic | 86 |
 | Denmark | 86 |
-| Italy | 83 |
+| Italy | 84 |
 | Finland | 79 |
-| Argentina | 73 |
+| Argentina | 74 |
 | Panama | 70 |
 | Austria | 69 |
 | Poland | 64 |
