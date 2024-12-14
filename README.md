@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-10,437-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-10,479-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_17:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_17:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,49 +10,49 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 291 |
-| Netherlands | 284 |
-| US West | 283 |
-| US Washington DC | 279 |
-| US Texas | 279 |
-| CA Montreal | 276 |
-| CA Toronto | 272 |
-| US New York | 271 |
+| US Chicago | 294 |
+| Netherlands | 287 |
+| US West | 285 |
+| US Texas | 281 |
+| US Washington DC | 280 |
+| CA Montreal | 279 |
+| CA Toronto | 275 |
+| US New York | 274 |
+| US Atlanta | 271 |
+| US East | 270 |
 | US Florida | 269 |
-| US East | 269 |
-| US Atlanta | 268 |
-| US California | 265 |
-| US Las Vegas | 256 |
+| US California | 266 |
+| US Las Vegas | 258 |
 | US Silicon Valley | 253 |
 | CA Vancouver | 251 |
 | AU Melbourne | 248 |
-| US Seattle | 238 |
-| UK London | 238 |
+| US Seattle | 240 |
+| UK London | 239 |
 | AU Sydney | 215 |
-| DE Frankfurt | 213 |
+| DE Frankfurt | 214 |
+| Switzerland | 195 |
 | US Denver | 194 |
-| Switzerland | 193 |
-| DE Berlin | 191 |
+| DE Berlin | 192 |
 | CA Ontario | 185 |
-| UK Manchester | 167 |
-| US Houston | 166 |
+| UK Manchester | 168 |
+| US Houston | 167 |
 | New Zealand | 158 |
 | AU Perth | 156 |
 | Japan | 152 |
-| France | 145 |
+| France | 146 |
 | UK Southampton | 141 |
-| Sweden | 136 |
+| Sweden | 137 |
 | Ireland | 123 |
 | Mexico | 115 |
-| Singapore | 111 |
+| Singapore | 112 |
 | Estonia | 110 |
 | Norway | 106 |
 | Israel | 97 |
 | Spain | 95 |
-| Czech Republic | 92 |
-| Belgium | 91 |
+| Czech Republic | 93 |
+| Belgium | 92 |
 | Bahamas | 90 |
-| Denmark | 88 |
+| Denmark | 89 |
 | Italy | 86 |
 | Finland | 79 |
 | Argentina | 75 |
