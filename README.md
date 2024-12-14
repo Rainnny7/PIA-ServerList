@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-10,336-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-10,373-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_15:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_16:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,42 +10,42 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 286 |
-| Netherlands | 278 |
-| US West | 274 |
-| US Washington DC | 274 |
-| US Texas | 274 |
-| CA Toronto | 271 |
-| CA Montreal | 270 |
-| US New York | 268 |
-| US Florida | 266 |
-| US East | 266 |
+| US Chicago | 287 |
+| Netherlands | 281 |
+| US West | 277 |
+| US Washington DC | 276 |
+| US Texas | 275 |
+| CA Toronto | 272 |
+| CA Montreal | 271 |
+| US New York | 270 |
+| US Florida | 267 |
+| US East | 267 |
 | US California | 264 |
-| US Atlanta | 262 |
-| US Las Vegas | 251 |
-| CA Vancouver | 248 |
-| US Silicon Valley | 247 |
-| AU Melbourne | 244 |
-| UK London | 236 |
-| US Seattle | 235 |
+| US Atlanta | 264 |
+| US Las Vegas | 252 |
+| CA Vancouver | 251 |
+| US Silicon Valley | 250 |
+| AU Melbourne | 246 |
+| UK London | 237 |
+| US Seattle | 236 |
 | AU Sydney | 215 |
-| DE Frankfurt | 209 |
+| DE Frankfurt | 210 |
 | US Denver | 193 |
 | Switzerland | 191 |
-| DE Berlin | 188 |
+| DE Berlin | 189 |
 | CA Ontario | 185 |
-| UK Manchester | 164 |
-| US Houston | 164 |
-| New Zealand | 157 |
+| UK Manchester | 165 |
+| US Houston | 165 |
+| New Zealand | 158 |
 | AU Perth | 155 |
 | Japan | 152 |
 | France | 145 |
 | UK Southampton | 140 |
 | Sweden | 135 |
-| Ireland | 122 |
+| Ireland | 123 |
 | Mexico | 115 |
-| Singapore | 110 |
-| Estonia | 109 |
+| Singapore | 111 |
+| Estonia | 110 |
 | Norway | 104 |
 | Israel | 97 |
 | Spain | 95 |
