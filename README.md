@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,633-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,655-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_13:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_13:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,42 +10,42 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US West | 354 |
-| US Chicago | 351 |
-| Netherlands | 343 |
-| US Washington DC | 333 |
-| CA Montreal | 332 |
+| US West | 356 |
+| US Chicago | 352 |
+| Netherlands | 344 |
+| US Washington DC | 334 |
+| CA Montreal | 334 |
+| CA Toronto | 329 |
 | US New York | 328 |
-| CA Toronto | 327 |
 | US Texas | 325 |
-| US Las Vegas | 319 |
+| US Las Vegas | 320 |
 | US Atlanta | 319 |
-| US East | 314 |
-| US California | 308 |
+| US East | 315 |
+| US California | 309 |
 | US Florida | 307 |
-| CA Vancouver | 298 |
+| CA Vancouver | 299 |
+| US Silicon Valley | 298 |
 | AU Melbourne | 298 |
-| US Silicon Valley | 297 |
 | UK London | 280 |
 | US Seattle | 278 |
 | AU Sydney | 250 |
-| DE Frankfurt | 244 |
-| Switzerland | 217 |
-| US Denver | 210 |
+| DE Frankfurt | 245 |
+| Switzerland | 218 |
+| US Denver | 211 |
 | DE Berlin | 208 |
-| CA Ontario | 207 |
-| UK Manchester | 180 |
+| CA Ontario | 208 |
+| UK Manchester | 181 |
 | US Houston | 180 |
 | New Zealand | 170 |
-| AU Perth | 165 |
+| AU Perth | 166 |
 | Japan | 161 |
 | France | 152 |
-| UK Southampton | 149 |
+| UK Southampton | 150 |
 | Sweden | 147 |
 | Mexico | 129 |
 | Ireland | 125 |
 | Singapore | 118 |
-| Estonia | 113 |
+| Estonia | 114 |
 | Norway | 109 |
 | Israel | 99 |
 | Belgium | 97 |
