@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,486-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,517-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_10:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_11:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,42 +10,42 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US West | 345 |
-| US Chicago | 344 |
-| Netherlands | 334 |
+| US West | 346 |
+| US Chicago | 345 |
+| Netherlands | 336 |
 | US Washington DC | 330 |
-| CA Montreal | 326 |
+| CA Montreal | 327 |
 | US New York | 321 |
-| CA Toronto | 318 |
-| US Texas | 317 |
-| US Las Vegas | 311 |
-| US East | 310 |
-| US Atlanta | 310 |
-| US Florida | 302 |
-| US California | 299 |
+| CA Toronto | 320 |
+| US Texas | 319 |
+| US Las Vegas | 314 |
+| US East | 312 |
+| US Atlanta | 312 |
+| US Florida | 304 |
+| US California | 300 |
+| AU Melbourne | 296 |
 | CA Vancouver | 293 |
 | US Silicon Valley | 293 |
-| AU Melbourne | 293 |
 | UK London | 277 |
 | US Seattle | 273 |
-| AU Sydney | 245 |
-| DE Frankfurt | 241 |
+| AU Sydney | 246 |
+| DE Frankfurt | 242 |
 | Switzerland | 215 |
 | US Denver | 209 |
-| DE Berlin | 206 |
+| DE Berlin | 207 |
 | CA Ontario | 206 |
+| US Houston | 180 |
 | UK Manchester | 179 |
-| US Houston | 178 |
 | New Zealand | 167 |
 | AU Perth | 163 |
-| Japan | 160 |
+| Japan | 161 |
 | France | 152 |
 | UK Southampton | 147 |
 | Sweden | 145 |
-| Mexico | 126 |
-| Ireland | 124 |
+| Mexico | 127 |
+| Ireland | 125 |
 | Singapore | 118 |
-| Estonia | 112 |
+| Estonia | 113 |
 | Norway | 109 |
 | Israel | 99 |
 | Belgium | 97 |
