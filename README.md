@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-10,812-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-10,844-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_23:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_14_2024_23:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -11,36 +11,36 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Region               | Servers |
 |----------------------|---------|
 | US Chicago | 313 |
+| US West | 304 |
 | Netherlands | 303 |
-| US West | 302 |
-| US Washington DC | 297 |
-| US Texas | 297 |
-| CA Montreal | 296 |
-| CA Toronto | 290 |
-| US New York | 288 |
-| US Florida | 281 |
-| US East | 281 |
-| US Atlanta | 281 |
-| US California | 278 |
-| US Las Vegas | 273 |
+| US Washington DC | 298 |
+| US Texas | 298 |
+| CA Montreal | 298 |
+| CA Toronto | 292 |
+| US New York | 291 |
+| US Florida | 282 |
+| US East | 282 |
+| US Atlanta | 282 |
+| US California | 279 |
+| US Las Vegas | 276 |
+| US Silicon Valley | 269 |
 | CA Vancouver | 267 |
-| US Silicon Valley | 266 |
-| AU Melbourne | 262 |
-| UK London | 251 |
-| US Seattle | 249 |
+| AU Melbourne | 263 |
+| UK London | 252 |
+| US Seattle | 250 |
 | DE Frankfurt | 226 |
 | AU Sydney | 222 |
-| Switzerland | 200 |
+| Switzerland | 202 |
 | DE Berlin | 197 |
 | US Denver | 197 |
 | CA Ontario | 193 |
 | UK Manchester | 171 |
 | US Houston | 171 |
+| AU Perth | 161 |
 | New Zealand | 161 |
-| AU Perth | 159 |
 | Japan | 154 |
-| France | 147 |
-| UK Southampton | 143 |
+| France | 148 |
+| UK Southampton | 144 |
 | Sweden | 140 |
 | Ireland | 123 |
 | Mexico | 118 |
@@ -49,10 +49,10 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Norway | 109 |
 | Israel | 99 |
 | Spain | 96 |
-| Belgium | 94 |
+| Belgium | 95 |
 | Czech Republic | 93 |
 | Bahamas | 91 |
-| Denmark | 89 |
+| Denmark | 90 |
 | Italy | 86 |
 | Finland | 79 |
 | Argentina | 75 |
