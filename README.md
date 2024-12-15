@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,334-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,361-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_08:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_08:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,27 +10,27 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US West | 337 |
-| US Chicago | 335 |
-| Netherlands | 324 |
-| US Washington DC | 323 |
-| CA Montreal | 319 |
+| US West | 339 |
+| US Chicago | 337 |
+| Netherlands | 326 |
+| US Washington DC | 324 |
+| CA Montreal | 321 |
+| US New York | 317 |
 | US Texas | 316 |
-| US New York | 315 |
-| CA Toronto | 312 |
-| US Las Vegas | 305 |
+| CA Toronto | 313 |
+| US Las Vegas | 307 |
+| US Atlanta | 305 |
 | US East | 304 |
-| US Atlanta | 303 |
-| US Florida | 296 |
-| US California | 293 |
+| US Florida | 298 |
+| US California | 294 |
 | CA Vancouver | 289 |
 | US Silicon Valley | 287 |
-| AU Melbourne | 284 |
-| UK London | 269 |
-| US Seattle | 268 |
+| AU Melbourne | 285 |
+| UK London | 270 |
+| US Seattle | 269 |
+| DE Frankfurt | 239 |
 | AU Sydney | 239 |
-| DE Frankfurt | 238 |
-| Switzerland | 213 |
+| Switzerland | 214 |
 | US Denver | 207 |
 | DE Berlin | 203 |
 | CA Ontario | 203 |
@@ -38,13 +38,13 @@ Wanna see the IP list? [Click Here](./servers.json)
 | US Houston | 175 |
 | New Zealand | 166 |
 | AU Perth | 162 |
-| Japan | 158 |
+| Japan | 159 |
 | France | 151 |
 | UK Southampton | 147 |
 | Sweden | 142 |
-| Mexico | 124 |
+| Mexico | 125 |
 | Ireland | 124 |
-| Singapore | 117 |
+| Singapore | 118 |
 | Estonia | 111 |
 | Norway | 109 |
 | Israel | 99 |
