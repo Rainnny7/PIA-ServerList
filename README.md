@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,032-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,062-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_02:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_03:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,30 +10,30 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 323 |
+| US Chicago | 324 |
 | US West | 317 |
-| Netherlands | 311 |
-| US Washington DC | 307 |
-| CA Montreal | 307 |
+| Netherlands | 312 |
+| US Washington DC | 309 |
+| CA Montreal | 308 |
+| CA Toronto | 303 |
 | US Texas | 303 |
-| CA Toronto | 301 |
-| US New York | 299 |
-| US Las Vegas | 292 |
-| US East | 290 |
-| US Atlanta | 289 |
-| US Florida | 288 |
-| US California | 281 |
+| US New York | 302 |
+| US Las Vegas | 295 |
+| US East | 292 |
+| US Atlanta | 291 |
+| US Florida | 289 |
+| US California | 282 |
+| CA Vancouver | 279 |
 | US Silicon Valley | 277 |
-| CA Vancouver | 276 |
-| AU Melbourne | 270 |
-| UK London | 259 |
+| AU Melbourne | 271 |
+| UK London | 260 |
 | US Seattle | 257 |
 | AU Sydney | 231 |
-| DE Frankfurt | 227 |
-| Switzerland | 206 |
+| DE Frankfurt | 229 |
+| Switzerland | 207 |
 | US Denver | 203 |
 | DE Berlin | 199 |
-| CA Ontario | 196 |
+| CA Ontario | 197 |
 | UK Manchester | 174 |
 | US Houston | 174 |
 | New Zealand | 163 |
@@ -41,9 +41,9 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Japan | 157 |
 | France | 148 |
 | UK Southampton | 146 |
-| Sweden | 140 |
+| Sweden | 141 |
 | Ireland | 123 |
-| Mexico | 119 |
+| Mexico | 120 |
 | Singapore | 115 |
 | Estonia | 111 |
 | Norway | 109 |
