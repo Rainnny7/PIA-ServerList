@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,421-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,454-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_09:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_10:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,39 +10,39 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US West | 343 |
-| US Chicago | 340 |
-| Netherlands | 328 |
-| US Washington DC | 327 |
-| CA Montreal | 323 |
+| US West | 345 |
+| US Chicago | 342 |
+| Netherlands | 331 |
+| US Washington DC | 328 |
+| CA Montreal | 325 |
 | US New York | 319 |
-| CA Toronto | 316 |
+| CA Toronto | 317 |
 | US Texas | 316 |
-| US Las Vegas | 309 |
-| US East | 307 |
-| US Atlanta | 307 |
-| US Florida | 300 |
-| US California | 296 |
-| CA Vancouver | 291 |
-| US Silicon Valley | 290 |
-| AU Melbourne | 290 |
-| UK London | 273 |
-| US Seattle | 272 |
+| US Las Vegas | 310 |
+| US East | 309 |
+| US Atlanta | 308 |
+| US Florida | 302 |
+| US California | 297 |
+| CA Vancouver | 292 |
+| US Silicon Valley | 292 |
+| AU Melbourne | 292 |
+| UK London | 275 |
+| US Seattle | 273 |
 | AU Sydney | 243 |
-| DE Frankfurt | 240 |
-| Switzerland | 214 |
+| DE Frankfurt | 241 |
+| Switzerland | 215 |
 | US Denver | 208 |
+| CA Ontario | 206 |
 | DE Berlin | 205 |
-| CA Ontario | 205 |
 | UK Manchester | 179 |
 | US Houston | 176 |
-| New Zealand | 166 |
-| AU Perth | 162 |
+| New Zealand | 167 |
+| AU Perth | 163 |
 | Japan | 160 |
 | France | 151 |
 | UK Southampton | 147 |
 | Sweden | 143 |
-| Mexico | 125 |
+| Mexico | 126 |
 | Ireland | 124 |
 | Singapore | 118 |
 | Estonia | 112 |
@@ -53,7 +53,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Czech Republic | 93 |
 | Bahamas | 91 |
 | Denmark | 91 |
-| Italy | 86 |
+| Italy | 87 |
 | Finland | 79 |
 | Argentina | 75 |
 | Panama | 71 |
