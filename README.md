@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,796-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,826-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_16:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_17:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,40 +10,40 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US West | 364 |
+| US West | 365 |
 | US Chicago | 361 |
-| Netherlands | 352 |
-| US Washington DC | 342 |
-| CA Montreal | 341 |
-| CA Toronto | 336 |
-| US New York | 336 |
-| US Texas | 332 |
-| US Las Vegas | 327 |
-| US East | 323 |
+| Netherlands | 355 |
+| US Washington DC | 344 |
+| CA Montreal | 342 |
+| CA Toronto | 338 |
+| US New York | 337 |
+| US Texas | 334 |
+| US Las Vegas | 329 |
+| US East | 325 |
 | US Atlanta | 322 |
-| US Florida | 313 |
-| US California | 313 |
-| US Silicon Valley | 306 |
-| CA Vancouver | 303 |
-| AU Melbourne | 302 |
-| US Seattle | 282 |
-| UK London | 282 |
+| US Florida | 315 |
+| US California | 314 |
+| US Silicon Valley | 307 |
+| CA Vancouver | 304 |
+| AU Melbourne | 304 |
+| US Seattle | 284 |
+| UK London | 283 |
 | AU Sydney | 253 |
-| DE Frankfurt | 249 |
+| DE Frankfurt | 250 |
 | Switzerland | 220 |
 | US Denver | 214 |
+| DE Berlin | 210 |
 | CA Ontario | 210 |
-| DE Berlin | 209 |
 | UK Manchester | 182 |
 | US Houston | 182 |
 | New Zealand | 171 |
 | AU Perth | 166 |
 | Japan | 162 |
 | France | 153 |
-| UK Southampton | 151 |
+| UK Southampton | 152 |
 | Sweden | 149 |
 | Mexico | 133 |
-| Ireland | 126 |
+| Ireland | 127 |
 | Singapore | 118 |
 | Estonia | 114 |
 | Norway | 109 |
