@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,386-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,421-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_09:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_09:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,32 +10,32 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US West | 341 |
-| US Chicago | 339 |
-| US Washington DC | 326 |
-| Netherlands | 326 |
-| CA Montreal | 322 |
-| US New York | 317 |
+| US West | 343 |
+| US Chicago | 340 |
+| Netherlands | 328 |
+| US Washington DC | 327 |
+| CA Montreal | 323 |
+| US New York | 319 |
+| CA Toronto | 316 |
 | US Texas | 316 |
-| CA Toronto | 313 |
 | US Las Vegas | 309 |
-| US Atlanta | 306 |
-| US East | 305 |
-| US Florida | 299 |
-| US California | 294 |
-| CA Vancouver | 290 |
-| US Silicon Valley | 288 |
-| AU Melbourne | 287 |
-| US Seattle | 271 |
-| UK London | 271 |
-| AU Sydney | 240 |
-| DE Frankfurt | 239 |
+| US East | 307 |
+| US Atlanta | 307 |
+| US Florida | 300 |
+| US California | 296 |
+| CA Vancouver | 291 |
+| US Silicon Valley | 290 |
+| AU Melbourne | 290 |
+| UK London | 273 |
+| US Seattle | 272 |
+| AU Sydney | 243 |
+| DE Frankfurt | 240 |
 | Switzerland | 214 |
 | US Denver | 208 |
-| DE Berlin | 204 |
-| CA Ontario | 204 |
+| DE Berlin | 205 |
+| CA Ontario | 205 |
 | UK Manchester | 179 |
-| US Houston | 175 |
+| US Houston | 176 |
 | New Zealand | 166 |
 | AU Perth | 162 |
 | Japan | 160 |
@@ -45,7 +45,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Mexico | 125 |
 | Ireland | 124 |
 | Singapore | 118 |
-| Estonia | 111 |
+| Estonia | 112 |
 | Norway | 109 |
 | Israel | 99 |
 | Belgium | 97 |
