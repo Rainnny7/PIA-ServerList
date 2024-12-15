@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-11,091-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-11,123-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_03:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_04:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,29 +10,29 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 324 |
-| US West | 320 |
-| Netherlands | 313 |
-| US Washington DC | 310 |
-| CA Montreal | 309 |
-| CA Toronto | 303 |
-| US Texas | 303 |
-| US New York | 302 |
-| US Las Vegas | 297 |
-| US East | 293 |
-| US Atlanta | 292 |
+| US Chicago | 326 |
+| US West | 321 |
+| Netherlands | 314 |
+| US Washington DC | 311 |
+| CA Montreal | 310 |
+| US Texas | 306 |
+| US New York | 305 |
+| CA Toronto | 304 |
+| US Las Vegas | 299 |
+| US East | 295 |
+| US Atlanta | 293 |
 | US Florida | 290 |
-| US California | 283 |
-| CA Vancouver | 279 |
+| US California | 284 |
+| CA Vancouver | 280 |
 | US Silicon Valley | 279 |
-| AU Melbourne | 274 |
-| UK London | 261 |
-| US Seattle | 258 |
-| AU Sydney | 231 |
-| DE Frankfurt | 230 |
-| Switzerland | 208 |
+| AU Melbourne | 275 |
+| UK London | 262 |
+| US Seattle | 260 |
+| AU Sydney | 233 |
+| DE Frankfurt | 232 |
+| Switzerland | 210 |
 | US Denver | 203 |
-| DE Berlin | 201 |
+| DE Berlin | 202 |
 | CA Ontario | 199 |
 | UK Manchester | 175 |
 | US Houston | 174 |
@@ -40,7 +40,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | AU Perth | 161 |
 | Japan | 157 |
 | France | 149 |
-| UK Southampton | 146 |
+| UK Southampton | 147 |
 | Sweden | 141 |
 | Ireland | 124 |
 | Mexico | 120 |
