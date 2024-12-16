@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-12,631-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-12,648-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_16_2024_10:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_16_2024_11:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,37 +10,37 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 417 |
-| US West | 403 |
-| Netherlands | 396 |
-| US Washington DC | 390 |
-| CA Montreal | 384 |
+| US Chicago | 418 |
+| US West | 405 |
+| Netherlands | 398 |
+| US Washington DC | 391 |
+| CA Montreal | 385 |
 | CA Toronto | 375 |
+| US New York | 372 |
 | US Texas | 372 |
-| US New York | 371 |
-| US Las Vegas | 367 |
+| US Las Vegas | 368 |
 | US Atlanta | 367 |
-| US East | 361 |
+| US East | 362 |
+| US Florida | 349 |
 | US California | 349 |
-| US Florida | 348 |
-| US Silicon Valley | 345 |
+| US Silicon Valley | 346 |
 | CA Vancouver | 331 |
-| AU Melbourne | 329 |
+| AU Melbourne | 330 |
 | US Seattle | 307 |
-| UK London | 304 |
+| UK London | 305 |
 | AU Sydney | 276 |
 | DE Frankfurt | 269 |
 | Switzerland | 233 |
 | US Denver | 228 |
-| CA Ontario | 223 |
-| DE Berlin | 220 |
+| CA Ontario | 224 |
+| DE Berlin | 221 |
 | US Houston | 190 |
 | UK Manchester | 189 |
 | New Zealand | 173 |
 | AU Perth | 169 |
 | Japan | 168 |
 | Sweden | 163 |
-| France | 158 |
+| France | 159 |
 | UK Southampton | 156 |
 | Mexico | 134 |
 | Ireland | 129 |
