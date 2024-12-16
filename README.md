@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-12,008-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-12,037-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_21:31_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_15_2024_22:01_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,32 +10,32 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US West | 370 |
-| US Chicago | 368 |
-| Netherlands | 365 |
-| US Washington DC | 354 |
-| US New York | 347 |
-| CA Montreal | 347 |
-| CA Toronto | 346 |
-| US Texas | 344 |
-| US Las Vegas | 340 |
-| US Atlanta | 334 |
-| US East | 332 |
-| US Florida | 323 |
-| US California | 321 |
+| US West | 371 |
+| US Chicago | 369 |
+| Netherlands | 366 |
+| US Washington DC | 356 |
+| US New York | 349 |
+| CA Toronto | 348 |
+| CA Montreal | 348 |
+| US Texas | 346 |
+| US Las Vegas | 342 |
+| US Atlanta | 335 |
+| US East | 333 |
+| US Florida | 325 |
+| US California | 323 |
 | US Silicon Valley | 315 |
 | CA Vancouver | 311 |
-| AU Melbourne | 310 |
-| US Seattle | 290 |
-| UK London | 289 |
+| AU Melbourne | 311 |
+| US Seattle | 291 |
+| UK London | 290 |
 | DE Frankfurt | 258 |
-| AU Sydney | 256 |
-| Switzerland | 223 |
+| AU Sydney | 257 |
+| Switzerland | 224 |
 | US Denver | 216 |
 | DE Berlin | 213 |
 | CA Ontario | 212 |
-| US Houston | 186 |
-| UK Manchester | 183 |
+| US Houston | 187 |
+| UK Manchester | 185 |
 | New Zealand | 172 |
 | AU Perth | 166 |
 | Japan | 165 |
@@ -43,7 +43,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Sweden | 153 |
 | UK Southampton | 153 |
 | Mexico | 134 |
-| Ireland | 127 |
+| Ireland | 128 |
 | Singapore | 118 |
 | Estonia | 114 |
 | Norway | 109 |
