@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-14,813-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-14,819-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_20_2024_04:01_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_20_2024_04:31_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,10 +10,10 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 584 |
+| US Chicago | 586 |
 | US West | 580 |
-| Netherlands | 545 |
-| CA Montreal | 526 |
+| Netherlands | 546 |
+| CA Montreal | 528 |
 | US Washington DC | 512 |
 | CA Toronto | 491 |
 | US Atlanta | 489 |
@@ -90,10 +90,10 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Bulgaria | 28 |
 | Macao | 26 |
 | Montenegro | 26 |
+| Nigeria | 25 |
 | Moldova | 24 |
 | Cambodia | 24 |
 | Cyprus | 24 |
-| Nigeria | 24 |
 | Morocco | 24 |
 | South Africa | 24 |
 | Egypt | 24 |
