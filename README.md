@@ -1,6 +1,6 @@
-![Servers](https://img.shields.io/badge/Servers-15,975-darkgreen)
+![Servers](https://img.shields.io/badge/Servers-15,981-darkgreen)
 ![Total Regions](https://img.shields.io/badge/Total_Regions-97-darkgreen)
-![Last Updated](https://img.shields.io/badge/Last_Updated-December_27_2024_03:00_EST-darkgreen)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_27_2024_03:30_EST-darkgreen)
 
 # PIA-ServerList
 An automatically updated list of IPs for PIA servers, this list is updated every 10 Minutes, and servers in this list will be removed in they have not been seen in the last **Two Weeks**.
@@ -10,14 +10,14 @@ Wanna see the IP list? [Click Here](./servers.json)
 ## Servers
 | Region               | Servers |
 |----------------------|---------|
-| US Chicago | 694 |
-| US West | 682 |
+| US Chicago | 695 |
+| US West | 683 |
 | Netherlands | 663 |
-| CA Montreal | 612 |
-| US Washington DC | 570 |
+| CA Montreal | 613 |
+| US Washington DC | 571 |
 | CA Toronto | 569 |
 | US Atlanta | 557 |
-| US New York | 538 |
+| US New York | 539 |
 | US Texas | 536 |
 | US Las Vegas | 510 |
 | US East | 506 |
@@ -81,7 +81,7 @@ Wanna see the IP list? [Click Here](./servers.json)
 | Albania | 36 |
 | Philippines | 36 |
 | Algeria | 36 |
-| Qatar | 32 |
+| Qatar | 33 |
 | Bangladesh | 31 |
 | Liechtenstein | 29 |
 | Isle OF Man | 29 |
