@@ -1,6 +1,7 @@
 name: Sync PIA Servers
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 * * * *"
   push:
