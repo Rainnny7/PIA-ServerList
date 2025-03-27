@@ -10,12 +10,13 @@ on:
 
 jobs:
   docker:
-    matrix:
-      arch: [ "ubuntu-latest" ]
-      git-version: [ "2.44.0" ]
-      java-version: [ "17" ]
-      maven-version: [ "3.8.5" ]
-    runs-on: ${{ matrix.arch }}
+    strategy:
+      matrix:
+        arch: [ "ubuntu-latest" ]
+        git-version: [ "2.44.0" ]
+        java-version: [ "17" ]
+        maven-version: [ "3.8.5" ]
+      runs-on: ${{ matrix.arch }}
 
     # Steps to run
     steps:
