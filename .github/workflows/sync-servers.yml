@@ -5,7 +5,7 @@ on:
     - cron: "*/30 * * * *"
   push:
     branches: ["master"]
-    paths: [".gitea/workflows/sync-servers.yml", "src/**", "pom.xml"]
+    paths: [".github/workflows/sync-servers.yml", "src/**", "pom.xml"]
 
 jobs:
   docker:
@@ -13,7 +13,7 @@ jobs:
       matrix:
         java-version: ["17"]
         maven-version: ["3.8.5"]
-    runs-on: "ubuntu-latest"
+    runs-on: "self-hosted"
 
     # Steps to run
     steps:
@@ -35,9 +35,9 @@ jobs:
 
       - name: Commit Changes
         run: |
-          git config --global user.email "rainnny-ci@rainnny.club"
+          git config --global user.email "github-ci@rainnny.club"
           git config --global user.name "Rainnny-CI"
           git add servers.json
           git add README.md
           git commit -m "Scheduled update"
-          git push https://Rainnny-CI:${{ secrets.AUTH_TOKEN }}@git.rainnny.club/Rainnny/PIA-ServerList
+          git push https://Rainnny:${{ secrets.GITHUB_TOKEN }}@github.com/Rainnny7/PIA-ServerList
