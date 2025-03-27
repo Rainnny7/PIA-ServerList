@@ -1,4 +1,4 @@
-name: Sync PIA Servers
+name: Fetch PIA Servers
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     - cron: "0 * * * *"
   push:
     branches: ["master"]
-    paths: [".github/workflows/sync-servers.yml", "src/**", "pom.xml"]
+    paths: [".github/workflows/fetch-servers.yml", "src/**", "pom.xml"]
 
 jobs:
   docker:
