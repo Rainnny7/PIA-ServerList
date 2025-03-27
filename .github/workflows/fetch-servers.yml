@@ -12,7 +12,7 @@ jobs:
   docker:
     strategy:
       matrix:
-        arch: [ "ubuntu-latest" ]
+        arch: [ "self-hosted" ]
         git-version: [ "2.44.0" ]
         java-version: [ "17" ]
         maven-version: [ "3.8.5" ]
@@ -22,7 +22,7 @@ jobs:
     steps:
       # Checkout the repo
       - name: Checkout
-        uses: https://github.com/actions/checkout@v4
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
