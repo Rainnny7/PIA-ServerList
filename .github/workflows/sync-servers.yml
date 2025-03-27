@@ -20,7 +20,7 @@ jobs:
     steps:
       # Checkout the repo
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@4.2.2
 
       # Setup Java and Maven
       - name: Set up JDK and Maven
