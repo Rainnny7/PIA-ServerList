@@ -10,17 +10,20 @@ on:
 
 jobs:
   docker:
-    strategy:
-      matrix:
-        java-version: ["17"]
-        maven-version: ["3.8.5"]
-    runs-on: "ubuntu-latest"
+    matrix:
+      arch: [ "ubuntu-latest" ]
+      git-version: [ "2.44.0" ]
+      java-version: [ "17" ]
+      maven-version: [ "3.8.5" ]
+    runs-on: ${{ matrix.arch }}
 
     # Steps to run
     steps:
       # Checkout the repo
       - name: Checkout
-        uses: actions/checkout@4.2.0
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Setup Java and Maven
       - name: Set up JDK and Maven
@@ -41,4 +44,4 @@ jobs:
           git add servers.json
           git add README.md
           git commit -m "Scheduled update"
-          git push https://Rainnny:${{ secrets.GITHUB_TOKEN }}@github.com/Rainnny7/PIA-ServerList
+          git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/Rainnny7/PIA-ServerList
