@@ -13,7 +13,7 @@ jobs:
       matrix:
         java-version: ["17"]
         maven-version: ["3.8.5"]
-    runs-on: "self-hosted"
+    runs-on: "ubuntu-latest"
 
     # Steps to run
     steps:
